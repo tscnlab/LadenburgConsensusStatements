@@ -1,5 +1,11 @@
 ---
-title: "Quarto Website Template"
+title: "Ladenburg Consensus Statements"
+bibliography: references.bib
+format:
+  html:
+    toc: true
+    toc-location: left
+    lightbox: true
 ---
 
 This is a Quarto website.

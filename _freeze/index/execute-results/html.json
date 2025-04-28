@@ -1,9 +1,11 @@
 {
-  "hash": "05eb48837ed418c429152838c59020b5",
+  "hash": "25ce3e83f99049b7ff741d40418bb3cd",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"Quarto Website Template\"\n---\n\n\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
-    "supporting": [],
+    "markdown": "---\ntitle: \"Ladenburg Consensus Statements\"\nbibliography: references.bib\nformat:\n  html:\n    toc: true\n    toc-location: left\n    lightbox: true\n---\n\n\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],
