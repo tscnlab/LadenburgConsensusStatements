@@ -41,13 +41,13 @@ format:
 ### Supporting organisations
 
 ::: {layout-ncol=5}
-![](assets/logo-cie.png){height=50}
+[![](assets/logo-cie.png){height=50}]((https://cie.co.at/)
 
-![](assets/logo-slrch.png){height=50}
+[![](assets/logo-slrch.png){height=50}](https://slrch.org/)
 
-![](assets/logo-dla.png){height=50}
+[![](assets/logo-dla.png){height=50}](https://daylight.academy/)
 
-![](assets/logo-glg.png){height=50}
+[![](assets/logo-glg.png){height=50}](https://www.goodlightgroup.org/)
 
-![](assets/logo-cet.png){height=50}
+[![](assets/logo-cet.png){height=50}](https://cet.org/)
 :::
