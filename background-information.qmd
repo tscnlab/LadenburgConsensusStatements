@@ -1,5 +1,6 @@
 ---
 title: "Background information"
+title-block-banner: true
 bibliography: references.bib
 format:
   html:
