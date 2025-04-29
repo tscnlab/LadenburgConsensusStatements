@@ -7,13 +7,6 @@
     "text": "For centuries, we thought we understood how the human eye works — until a surprising discovery in the 1990s changed everything. The clue came from a domain quite different from ophthalmology, the medical discipline specialised in the eye. In a strain of mice lacking rod or cone photoreceptors (the retinal cells responsible for colour and light sensitivity), exposure to light affected their behavioural circadian rhythms. The biological clock in these mice was still synchronised by light to the 24-hour day-night cycle even though they were blind with respect to vision. Could there be a third, undiscovered type of photoreceptor present in the retina? The next chapter in this quest was when the intrinsically photosensitive retinal ganglion cells (ipRGCs) were revealed to be the mysterious photoreceptors. Together with rod and cone inputs, they signal a wide range of light levels in the environment, from the dim glow of starlight to the brightness of the midday sun. Their photopigment is melanopsin, with peak sensitivity in the short-wavelength part of the spectrum. Nerve pathways from the ipRGCs to the brain are amazingly diverse, showing that light plays an important role in regulating hormone secretion, sleep regulation, rhythms in body temperature, cognition, mood and alertness, and circadian and seasonal timing.\nThat is the basic science. Only recognised around two decades ago, these ipRGCs have enormously changed our understanding of the importance of light for health and well-being. But even before scientists uncovered this mechanism, bright light was already being used to treat depressive mood in people with seasonal affective disorder.\nNot surprisingly, the discovery of the ipRGCs introduced a new dimension for crafting and optimising light in the built environment: not only to maximise visual functions and minimise energy use, but also to maintain simultaneous input to the ipRGCs at the right level at the right time. It completely changed the field, leading to the development and publication of a melanopsin-based standard metrology system for quantifying the effects of light on humans by the International Commission on Illumination (CIE) in 2018.\nLight and lighting have become a public health issue, and everyone should know about these remarkable findings. Simply paying attention to one’s personal light exposure — getting outside in the morning and dimming screens before bed — can make a big difference in how we feel and sleep.\nAnna Wirz-Justice PhD\nProfessor Emerita Centre for Chronobiology, University Psychiatric Clinics Basel, Switzerland"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Ladenburg Consensus Statements",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "supporting-orgs.html",
     "href": "supporting-orgs.html",
     "title": "Supporting Organizations",
@@ -21,123 +14,60 @@
     "text": "About the The International Commission on Illumination, also known as the CIE from its French title, the Commission Internationale de l’Éclairage, is dedicated to global cooperation and the exchange of information on all matters related to the science and art of light and lighting, color and vision, light and radiation measurement, outdoor and indoor lighting design, photobiology, and image technology. The CIE is an independent scientific and international standards-developing organization that unites the lighting communities of its member countries to serve the world. CIE documents establish international consensus within its scope. In collaboration with the CIPM, the CIE maintains the international system of light measurement (photometry).\nAbout the : The Society for Light, Rhythms, and Circadian Health (SLRCH) is an international scientific non-profit organization devoted to promoting research and knowledge about the effects of light on the organism and the chronobiology of psychiatric as well as other medical disorders. Founded in 1988 as the Society for Light Treatment in Biological Rhythms (SLTBR), the SLRCH has brought together leading scientific experts, clinicians, and interested participants from different professional and multi-disciplinary backgrounds for discussion and exchange on the science and practical application of chronotherapy in medicine. The SLRCH is helping the transition between molecular chronobiology and its clinical application in human health and medicine.\nAbout the The Daylight Academy (DLA) is an international membership organisation initiated by the  that brings together scientists, architects, engineers and other professionals involved in daylight research or with a strong interest in daylight related topics. By organising networking events, supporting interdisciplinary projects and providing a platform for connection and exchange among the different disciplines and fields of expertise working on daylight, the Academy wants to initiate cooperation, innovation and new knowledge. Such interdisciplinary exchange has the potential to be a catalyst for creativity, novelty and development. The aim is to strengthen daylight research and its applications for the benefit of humanity and nature.\nAbout the The Good Light Group is a global, nonprofit organisation dedicated to promoting the use of good light. “Good light” is defined as the right light at the right time, offering beneficial effects on the human body and brain. The foundation seeks to achieve this goal by raising awareness of light’s impact on both vision and health, fostering global collaboration among scientists, lighting designers, companies, and organisations, and advancing knowledge development. The Good Light Group organizes webinars, creates animations, shares insights through blogs on social media, and produces guides and flyers for both the general public and professionals. The group is made up of participants, science advisors, and partners.\nAbout the : Founded in 1994, the Center for Environmental Therapeutics (CET) is a nonprofit organization dedicated to education and research on new environmental therapies that focus on scientifically validated approaches to optimizing mood, sleep, and performance, mainly through light therapy, chronotherapy, and other non-pharmacological treatments. The organization seeks to achieve this goal by raising awareness about how light exposure, sleep timing, and behavioral interventions can improve mental health and well-being, fostering collaboration among researchers, clinicians, and the public, and promoting evidence-based solutions. CET provides educational resources, shares insights through articles and social media, and offers practical tools for individuals and healthcare professionals.\nContact\nCIE Central Bureau\nSociety for Light, Rhythms and Circadian Health\nDaylight Academy Office\nGood Light Group\nCenter for Environmental Therapeutics"
   },
   {
+    "objectID": "background-information.html",
+    "href": "background-information.html",
+    "title": "Background information",
+    "section": "",
+    "text": "Background\nOver the past 50 years, the knowledge of how light affects humans has changed dramatically. In addition to enabling us to perform visual tasks, navigate in the environment, and appreciate the detailed, colourful and moving visual world, light is also fundamental to our biology. The light-dark cycle synchronises our body and brain to the external world, affects the production of hormones like melatonin, and can make us more alert.\nDiscoveries in neurobiology identified that a special type of cell in the human eye is responsible for these circadian, neuroendocrine, and neurobehavioral effects of light. These cells, called the intrinsically photosensitive retinal ganglion cells (ipRGCs), complement the visual information captured by rods and cones. They are also different from rods and cones in the way they respond to light and have maximal sensitivity to a different part of the wavelengths underlying white light.\nThe characterisation of these effects of light on humans and discovery of the ipRGCs catalyzed the development of novel standards for characterising light and lighting for humans, and how they should be applied. In 2018, the International Commission on Illumination (CIE) published the International Standard CIE S 026/E:2018. In 2022, a group of international experts published consensus recommendations on the amount of light that humans should be exposed to for optimal health. Then, in 2024, the Ladenburg Roundtable “Light for health and well-being – from the biological principles to policy” was convened to discuss the application of the current knowledge to the real world – and how this translation can be supported.\nThis consensus document represents the coordinated effort to develop a series of core statements representing the best current scientific knowledge on the circadian, neuroendocrine, and neurobehavioral effects of light. Emerging from a White Paper developed at the Ladenburg Roundtable, this document outlines key principles for effective science and health communication. The statements form a kernel around which to build science and health communication campaigns.\nIt is well-known and appreciated that the translation of knowledge generated from basic research suffers a time lag from research to practice. This document is designed to accelerate the process – and make the wealth of scientific discoveries accessible to a wider audience.\n\n\nScope\nThe scope of this consensus document is on the circadian, neuroendocrine, and neurobehavioral effects of visible light mediated by the eye in humans.\n\n\nTarget audience\nThis consensus document is designed to inform a diverse range of stakeholders and multipliers who play a role in understanding, communicating, and applying knowledge about the non-visual effects of light, and who are multipliers of this knowledge. This includes public health professionals, health communication professionals, lighting industry professionals, healthcare professionals, policymakers and researchers. It is not designed to provide a definitive guide for the general public, but to support the development of public-facing messaging.\n\n\nConsensus process\nA core group of experts (authors MS, LK, OS, MG, JAV, RL) led the initial development of core statements. These were then put to consensus approval by the Ladenburg Light & Health Consortium, using 75% as an approval criterion. Feedback for each statement was given and incorporated. The simplified statements and contextual information were developed once the core statements were defined, and again feedback was invited. The consensus process took place between October 2024 and February 2025.\n\n\nStructure of this document\nThere are 26 consensus statements approved by the entirety of Ladenburg Consortium. Each statement is supported by a simplified statement, as well as contextual information and references. In the choice of references, reviews and illustrative research articles were prioritized, and the reference is list is not to be thought of as exhaustive.\n\n\nConsiderations for effective communication\nTo ensure purposeful and effective communication for any campaigns built on the consensus statements, multipliers should begin by clearly defining the target audience to ensure that the messaging is relevant, accessible and actionable. Language should be clear and jargon-free to reach a broad audience. Special attention should be given to reaching vulnerable and less accessible populations, including individuals with limited health literacy."
+  },
+  {
     "objectID": "funding.html",
     "href": "funding.html",
     "title": "Funding",
     "section": "",
-    "text": "The Ladenburg Roundtable “Light for health and well-being – from the biological principles to policy” (14-16 April 2024) was supported by the Daimler and Benz Foundation. The funders had no role in the content, decision to publish, or preparation of the statements.\nForeword\nFor centuries, we thought we understood how the human eye works — until a surprising discovery in the 1990s changed everything. The clue came from a domain quite different from ophthalmology, the medical discipline specialised in the eye. In a strain of mice lacking rod or cone photoreceptors (the retinal cells responsible for colour and light sensitivity), exposure to light affected their behavioural circadian rhythms. The biological clock in these mice was still synchronised by light to the 24-hour day-night cycle even though they were blind with respect to vision. Could there be a third, undiscovered type of photoreceptor present in the retina? The next chapter in this quest was when the intrinsically photosensitive retinal ganglion cells (ipRGCs) were revealed to be the mysterious photoreceptors. Together with rod and cone inputs, they signal a wide range of light levels in the environment, from the dim glow of starlight to the brightness of the midday sun. Their photopigment is melanopsin, with peak sensitivity in the short-wavelength part of the spectrum. Nerve pathways from the ipRGCs to the brain are amazingly diverse, showing that light plays an important role in regulating hormone secretion, sleep regulation, rhythms in body temperature, cognition, mood and alertness, and circadian and seasonal timing.\nThat is the basic science. Only recognised around two decades ago, these ipRGCs have enormously changed our understanding of the importance of light for health and well-being. But even before scientists uncovered this mechanism, bright light was already being used to treat depressive mood in people with seasonal affective disorder.\nNot surprisingly, the discovery of the ipRGCs introduced a new dimension for crafting and optimising light in the built environment: not only to maximise visual functions and minimise energy use, but also to maintain simultaneous input to the ipRGCs at the right level at the right time. It completely changed the field, leading to the development and publication of a melanopsin-based standard metrology system for quantifying the effects of light on humans by the International Commission on Illumination (CIE) in 2018.\nLight and lighting have become a public health issue, and everyone should know about these remarkable findings. Simply paying attention to one’s personal light exposure — getting outside in the morning and dimming screens before bed — can make a big difference in how we feel and sleep.\nAnna Wirz-Justice PhD\nProfessor Emerita Centre for Chronobiology, University Psychiatric Clinics Basel, Switzerland"
+    "text": "Logo of the Daimler and Benz Foundation\n\n\nThe Ladenburg Roundtable “Light for health and well-being – from the biological principles to policy” (14-16 April 2024) was supported by the Daimler and Benz Foundation. The funders had no role in the content, decision to publish, or preparation of the statements."
   },
   {
     "objectID": "license.html",
     "href": "license.html",
     "title": "License",
     "section": "",
-    "text": "put the terms of the license here"
+    "text": "This work is licensed under a Creative Commons Attribution (CC-BY) License. Exemption: Logos, trademarks, and other branding elements included in this work are not covered by this license and may not be used without prior permission from the rights holder."
   },
   {
     "objectID": "license.html#license-type",
     "href": "license.html#license-type",
     "title": "License",
     "section": "",
-    "text": "put the terms of the license here"
+    "text": "This work is licensed under a Creative Commons Attribution (CC-BY) License. Exemption: Logos, trademarks, and other branding elements included in this work are not covered by this license and may not be used without prior permission from the rights holder."
   },
   {
     "objectID": "consensus-statements.html",
     "href": "consensus-statements.html",
     "title": "Consensus Statements",
     "section": "",
-    "text": "1 ### Simplified statement"
+    "text": "1\n\n\n\nWhite light is made up of multiple wavelengths, which we perceive as colours.\n\n\n\nWhen we see different colours, we are actually seeing different wavelengths of light. Short wavelengths appear violet, while longer wavelengths appear indigo, blue, green, yellow, orange, and red.\n\n\n\nCIE. (2020). ILV: International Lighting Vocabulary. CIE Central Bureau. Boyce, P. R. (2014). Human factors in lighting (3rd ed.). CRC Press, Taylor & Francis Group."
   },
   {
     "objectID": "consensus-statements.html#light-can-be-described-by-its-spectrum-how-much-energy-there-is-at-each-wavelength-across-the-visible-spectrum-from-approximately-380-to-780-nm.",
     "href": "consensus-statements.html#light-can-be-described-by-its-spectrum-how-much-energy-there-is-at-each-wavelength-across-the-visible-spectrum-from-approximately-380-to-780-nm.",
     "title": "Consensus Statements",
     "section": "",
-    "text": "1 ### Simplified statement"
-  },
-  {
-    "objectID": "consensus-statements.html#white-light-is-made-up-of-multiple-wavelengths-which-we-perceive-as-colours.",
-    "href": "consensus-statements.html#white-light-is-made-up-of-multiple-wavelengths-which-we-perceive-as-colours.",
-    "title": "Consensus Statements",
-    "section": "White light is made up of multiple wavelengths, which we perceive as colours.",
-    "text": "White light is made up of multiple wavelengths, which we perceive as colours.\n\nContextual information"
-  },
-  {
-    "objectID": "consensus-statements.html#when-we-see-different-colours-we-are-actually-seeing-different-wavelengths-of-light.-short-wavelengths-appear-violet-while-longer-wavelengths-appear-indigo-blue-green-yellow-orange-and-red.",
-    "href": "consensus-statements.html#when-we-see-different-colours-we-are-actually-seeing-different-wavelengths-of-light.-short-wavelengths-appear-violet-while-longer-wavelengths-appear-indigo-blue-green-yellow-orange-and-red.",
-    "title": "Consensus Statements",
-    "section": "When we see different colours, we are actually seeing different wavelengths of light. Short wavelengths appear violet, while longer wavelengths appear indigo, blue, green, yellow, orange, and red.",
-    "text": "When we see different colours, we are actually seeing different wavelengths of light. Short wavelengths appear violet, while longer wavelengths appear indigo, blue, green, yellow, orange, and red.\n\nReferences"
-  },
-  {
-    "objectID": "consensus-statements.html#cie.-2020.-ilv-international-lighting-vocabulary.-cie-central-bureau.",
-    "href": "consensus-statements.html#cie.-2020.-ilv-international-lighting-vocabulary.-cie-central-bureau.",
-    "title": "Consensus Statements",
-    "section": "CIE. (2020). ILV: International Lighting Vocabulary. CIE Central Bureau.",
-    "text": "CIE. (2020). ILV: International Lighting Vocabulary. CIE Central Bureau."
-  },
-  {
-    "objectID": "consensus-statements.html#boyce-p.-r.-2014.-human-factors-in-lighting-3rd-ed..-crc-press-taylor-francis-group.",
-    "href": "consensus-statements.html#boyce-p.-r.-2014.-human-factors-in-lighting-3rd-ed..-crc-press-taylor-francis-group.",
-    "title": "Consensus Statements",
-    "section": "Boyce, P. R. (2014). Human factors in lighting (3rd ed.). CRC Press, Taylor & Francis Group.",
-    "text": "Boyce, P. R. (2014). Human factors in lighting (3rd ed.). CRC Press, Taylor & Francis Group."
+    "text": "1\n\n\n\nWhite light is made up of multiple wavelengths, which we perceive as colours.\n\n\n\nWhen we see different colours, we are actually seeing different wavelengths of light. Short wavelengths appear violet, while longer wavelengths appear indigo, blue, green, yellow, orange, and red.\n\n\n\nCIE. (2020). ILV: International Lighting Vocabulary. CIE Central Bureau. Boyce, P. R. (2014). Human factors in lighting (3rd ed.). CRC Press, Taylor & Francis Group."
   },
   {
     "objectID": "consensus-statements.html#the-pattern-of-ones-light-exposure-across-the-day-and-the-year-can-be-quite-complex-and-depends-on-where-one-is-and-what-one-does.",
     "href": "consensus-statements.html#the-pattern-of-ones-light-exposure-across-the-day-and-the-year-can-be-quite-complex-and-depends-on-where-one-is-and-what-one-does.",
     "title": "Consensus Statements",
     "section": "The pattern of one’s light exposure across the day and the year can be quite complex, and depends on where one is and what one does.",
-    "text": "The pattern of one’s light exposure across the day and the year can be quite complex, and depends on where one is and what one does.\n\nNumber\n2 ### Simplified statement"
-  },
-  {
-    "objectID": "consensus-statements.html#the-amount-of-light-around-us-or-the-amount-we-are-exposed-to-changes-as-we-move-between-indoor-and-outdoor-spaces-throughout-the-day-and-across-seasons.",
-    "href": "consensus-statements.html#the-amount-of-light-around-us-or-the-amount-we-are-exposed-to-changes-as-we-move-between-indoor-and-outdoor-spaces-throughout-the-day-and-across-seasons.",
-    "title": "Consensus Statements",
-    "section": "The amount of light around us (or the amount we are exposed to) changes as we move between indoor and outdoor spaces, throughout the day, and across seasons.",
-    "text": "The amount of light around us (or the amount we are exposed to) changes as we move between indoor and outdoor spaces, throughout the day, and across seasons.\n\nContextual information"
-  },
-  {
-    "objectID": "consensus-statements.html#light-from-the-sun-increases-from-dawn-to-midday-and-decreases-in-the-evening.-depending-on-location-the-amount-of-light-in-the-day-varies-greatly-between-summer-and-winter.",
-    "href": "consensus-statements.html#light-from-the-sun-increases-from-dawn-to-midday-and-decreases-in-the-evening.-depending-on-location-the-amount-of-light-in-the-day-varies-greatly-between-summer-and-winter.",
-    "title": "Consensus Statements",
-    "section": "Light from the sun increases from dawn to midday and decreases in the evening. Depending on location, the amount of light in the day varies greatly between summer and winter.",
-    "text": "Light from the sun increases from dawn to midday and decreases in the evening. Depending on location, the amount of light in the day varies greatly between summer and winter.\n\nReferences"
-  },
-  {
-    "objectID": "consensus-statements.html#webler-f.-s.-spitschan-m.-foster-r.-g.-andersen-m.-peirson-s.-n.-2019.-what-is-the-spectral-diet-of-humans-curr-opin-behav-sci-30-80-86.",
-    "href": "consensus-statements.html#webler-f.-s.-spitschan-m.-foster-r.-g.-andersen-m.-peirson-s.-n.-2019.-what-is-the-spectral-diet-of-humans-curr-opin-behav-sci-30-80-86.",
-    "title": "Consensus Statements",
-    "section": "Webler, F. S., Spitschan, M., Foster, R. G., Andersen, M., & Peirson, S. N. (2019). What is the ‘spectral diet’ of humans? Curr Opin Behav Sci, 30, 80-86.",
-    "text": "Webler, F. S., Spitschan, M., Foster, R. G., Andersen, M., & Peirson, S. N. (2019). What is the ‘spectral diet’ of humans? Curr Opin Behav Sci, 30, 80-86."
+    "text": "The pattern of one’s light exposure across the day and the year can be quite complex, and depends on where one is and what one does.\n\nNumber\n2\n\n\nSimplified statement\nThe amount of light around us (or the amount we are exposed to) changes as we move between indoor and outdoor spaces, throughout the day, and across seasons.\n\n\nContextual information\nLight from the sun increases from dawn to midday and decreases in the evening. Depending on location, the amount of light in the day varies greatly between summer and winter.\n\n\nReferences\nWebler, F. S., Spitschan, M., Foster, R. G., Andersen, M., & Peirson, S. N. (2019). What is the ‘spectral diet’ of humans? Curr Opin Behav Sci, 30, 80-86."
   },
   {
     "objectID": "consensus-statements.html#light-exposure-can-be-described-by-its-intensity-the-total-amount-of-energy-across-all-wavelengths-from-380-to-780-nm-weighted-according-to-the-function-of-interest.",
     "href": "consensus-statements.html#light-exposure-can-be-described-by-its-intensity-the-total-amount-of-energy-across-all-wavelengths-from-380-to-780-nm-weighted-according-to-the-function-of-interest.",
     "title": "Consensus Statements",
     "section": "Light exposure can be described by its intensity: The total amount of energy across all wavelengths from 380 to 780 nm, weighted according to the function of interest.",
-    "text": "Light exposure can be described by its intensity: The total amount of energy across all wavelengths from 380 to 780 nm, weighted according to the function of interest.\n\nNumber\n3 ### Simplified statement"
-  },
-  {
-    "objectID": "consensus-statements.html#we-can-measure-light-exposure-by-assessing-how-intense-the-light-is-at-different-wavelengths.",
-    "href": "consensus-statements.html#we-can-measure-light-exposure-by-assessing-how-intense-the-light-is-at-different-wavelengths.",
-    "title": "Consensus Statements",
-    "section": "We can measure light exposure by assessing how intense the light is at different wavelengths.",
-    "text": "We can measure light exposure by assessing how intense the light is at different wavelengths.\n\nContextual information"
-  },
-  {
-    "objectID": "consensus-statements.html#we-can-characterise-a-light-source-by-describing-how-much-power-it-emits-at-each-wavelength.-this-power-is-called-intensity.-physicists-measure-intensity-while-biological-and-psychological-scientists-study-how-intensity-affects-various-processes.",
-    "href": "consensus-statements.html#we-can-characterise-a-light-source-by-describing-how-much-power-it-emits-at-each-wavelength.-this-power-is-called-intensity.-physicists-measure-intensity-while-biological-and-psychological-scientists-study-how-intensity-affects-various-processes.",
-    "title": "Consensus Statements",
-    "section": "We can characterise a light source by describing how much power it emits at each wavelength. This power is called intensity. Physicists measure intensity, while biological and psychological scientists study how intensity affects various processes.",
-    "text": "We can characterise a light source by describing how much power it emits at each wavelength. This power is called intensity. Physicists measure intensity, while biological and psychological scientists study how intensity affects various processes.\n\nReferences"
-  },
-  {
-    "objectID": "consensus-statements.html#cie.-2014.-cie-tn-0022014-relating-photochemical-and-photobiological-quantities-to-photometric-quantities.-cie-central-bureau.",
-    "href": "consensus-statements.html#cie.-2014.-cie-tn-0022014-relating-photochemical-and-photobiological-quantities-to-photometric-quantities.-cie-central-bureau.",
-    "title": "Consensus Statements",
-    "section": "CIE. (2014). CIE TN 002:2014: Relating photochemical and photobiological quantities to photometric quantities. CIE Central Bureau.",
-    "text": "CIE. (2014). CIE TN 002:2014: Relating photochemical and photobiological quantities to photometric quantities. CIE Central Bureau."
+    "text": "Light exposure can be described by its intensity: The total amount of energy across all wavelengths from 380 to 780 nm, weighted according to the function of interest.\n\nNumber\n3\n\n\nSimplified statement\nWe can measure light exposure by assessing how intense the light is at different wavelengths.\n\n\nContextual information\nWe can characterise a light source by describing how much power it emits at each wavelength. This power is called intensity. Physicists measure intensity, while biological and psychological scientists study how intensity affects various processes.\n\n\nReferences\nCIE. (2014). CIE TN 002:2014: Relating photochemical and photobiological quantities to photometric quantities. CIE Central Bureau."
   },
   {
     "objectID": "consensus-statements.html#daylight-has-what-we-call-a-broad-spectrum-with-a-lot-of-energy-across-many-wavelengths.",
@@ -161,8 +91,8 @@
     "text": "Daylight, a combination of direct sunlight and scattered sky light, contains all visible wavelengths and more. Changes in the time of day and weather conditions shift the wavelength composition. This shift changes the colour that daylight appears.\n\nReferences"
   },
   {
-    "objectID": "consensus-statements.html#boyce-p.-r.-2014.-human-factors-in-lighting-3rd-ed..-crc-press-taylor-francis-group.-1",
-    "href": "consensus-statements.html#boyce-p.-r.-2014.-human-factors-in-lighting-3rd-ed..-crc-press-taylor-francis-group.-1",
+    "objectID": "consensus-statements.html#boyce-p.-r.-2014.-human-factors-in-lighting-3rd-ed..-crc-press-taylor-francis-group.",
+    "href": "consensus-statements.html#boyce-p.-r.-2014.-human-factors-in-lighting-3rd-ed..-crc-press-taylor-francis-group.",
     "title": "Consensus Statements",
     "section": "Boyce, P. R. (2014). Human factors in lighting (3rd ed.). CRC Press, Taylor & Francis Group.",
     "text": "Boyce, P. R. (2014). Human factors in lighting (3rd ed.). CRC Press, Taylor & Francis Group."
