@@ -16,7 +16,7 @@ The **[Daylight Academy (DLA)](https://daylight.academy/)** is an international 
 
 [![](assets/logo-glg.png){width=200pt}](https://www.goodlightgroup.org/)
 
-The **[Good Light Group](https://www.goodlightgroup.org/)** is a global, nonprofit organisation dedicated to promoting the use of good light. "Good light" is defined as the right light at the right time, offering beneficial effects on the human body and brain. The foundation seeks to achieve this goal by raising awareness of light's impact on both vision and health, fostering global collaboration among scientists, lighting designers, companies, and organisations, and advancing knowledge development. The Good Light Group organizes webinars, creates animations, shares insights through blogs on social media, and produces guides and flyers for both the general public and professionals. The group is made up of participants, science advisors, and partners.
+The **[Good Light Group (GLG)](https://www.goodlightgroup.org/)** is a global, nonprofit organisation dedicated to promoting the use of good light. "Good light" is defined as the right light at the right time, offering beneficial effects on the human body and brain. The foundation seeks to achieve this goal by raising awareness of light's impact on both vision and health, fostering global collaboration among scientists, lighting designers, companies, and organisations, and advancing knowledge development. The Good Light Group organizes webinars, creates animations, shares insights through blogs on social media, and produces guides and flyers for both the general public and professionals. The group is made up of participants, science advisors, and partners.
 
 [![](assets/logo-cet.png){width=300pt}]((https://cet.org/)
 
