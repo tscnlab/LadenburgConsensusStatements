@@ -1,5 +1,5 @@
 ---
-title: "Consensus Statements"
+title: "Consensus statements"
 title-block-banner: true
 bibliography: references.bib
 format:
