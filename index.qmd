@@ -41,7 +41,7 @@ format:
 ### Supporting organisations
 
 ::: {layout-ncol=5}
-[![](assets/logo-cie.png){height=50}]((https://cie.co.at/)
+[![](assets/logo-cie.png){height=50}](https://cie.co.at/)
 
 [![](assets/logo-slrch.png){height=50}](https://slrch.org/)
 
