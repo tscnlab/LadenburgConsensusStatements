@@ -13,12 +13,16 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - text: "About"
-        href: about.qmd
+      - text: "Foreword"
+        href: foreword.qmd
+      - text: "Consensus statements"
+        href: consensus-statements.qmd
+      - text: "Supporting organisations"
+        href: supporting-orgs.qmd
+      - text: "Funding"
+        href: funding.qmd
       - text: "License"
         href: license.md
-      - text: "Contributing"
-        href: contributing.qmd
     right:
       - icon: github
         href: https://github.com/tscnlab/LadenburgConsensusStatements
