@@ -1,5 +1,6 @@
 ---
 title: "Ladenburg Light and Health Consortium"
+title-block-banner: true
 format:
   html:
     toc: true
