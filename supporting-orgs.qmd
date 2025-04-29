@@ -6,6 +6,8 @@ title: "Supporting organizations"
   <img src="assets/logo-cie.png" alt="Logo of the International Commission on Illumination (CIE)" style="width:300pt;">
 </a>
 
+![Logo of the Daimler and Benz Foundation](assets/logo-cie.png){width=100pt}
+
 The **[International Commission on Illumination](https://cie.co.at/)**, also known as the CIE from its French title, the Commission Internationale de l'Éclairage, is dedicated to global cooperation and the exchange of information on all matters related to the science and art of light and lighting, color and vision, light and radiation measurement, outdoor and indoor lighting design, photobiology, and image technology. The CIE is an independent scientific and international standards-developing organization that unites the lighting communities of its member countries to serve the world. CIE documents establish international consensus within its scope. In collaboration with the CIPM, the CIE maintains the international system of light measurement (photometry).
 
 <a href="https://slrch.org/" target="_blank">
