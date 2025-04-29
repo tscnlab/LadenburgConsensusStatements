@@ -1,8 +1,8 @@
 ---
-title: "Supporting Organizations"
+title: "Supporting organizations"
 ---
 
-<a href="https://cie.co.at" target="_blank">
+<a href="https://cie.co.at/" target="_blank">
   <img src="assets/logo-cie.png" alt="Logo of the International Commission on Illumination (CIE)" style="width:300pt;">
 </a>
 
