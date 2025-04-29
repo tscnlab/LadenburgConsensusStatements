@@ -10,3 +10,5 @@ format:
 # The circadian, neuroendocrine, and neurobehavioral effects of ocular light exposure on human physiology
 
 ## Consensus statements for a coordinated health communication campaign
+
+::: {layout="grid" columns=5} ![](assets/logo-cie.png){fig-align="center"} ![](assets/logo-slrch.png){fig-align="center"} ![](assets/logo-dla.png){fig-align="center"} ![](assets/logo-glg.png){fig-align="center"} ![](assets/logo-cet.png){fig-align="center"}:::
