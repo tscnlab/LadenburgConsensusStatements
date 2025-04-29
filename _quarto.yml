@@ -9,8 +9,7 @@ website:
   repo-actions: [edit, issue]
   page-navigation: true
   bread-crumbs: true
-  sidebar:
-    title: "Last modified: {{< meta date >}}"
+  navbar:
     left:
       - text: Home
         href: index.qmd
