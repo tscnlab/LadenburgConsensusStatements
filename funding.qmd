@@ -1,5 +1,6 @@
 ---
 title: "Funding"
+title-block-banner: true
 format:
   html:
     toc: true
