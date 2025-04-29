@@ -2,6 +2,7 @@
 title: "The circadian, neuroendocrine, and neurobehavioral effects of ocular light exposure on human physiology"
 format:
   html:
+    page-layout: full
     toc: true
     toc-location: left
     lightbox: true
@@ -38,3 +39,11 @@ format:
 
 
 ### Supporting organisations
+
+::: {layout-ncol=5}
+![](logo-cie.png)
+![](logo-slrch.png)
+![](logo-dla.png)
+![](logo-glg.png)
+![](logo-cet.png)
+:::
