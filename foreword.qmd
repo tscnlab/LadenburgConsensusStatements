@@ -1,5 +1,6 @@
 ---
 title: "Foreword"
+title-block-banner: true
 format:
   html:
     toc: true
