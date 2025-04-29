@@ -3,14 +3,14 @@ project:
 
 website:
   title: "Ladenburg Consensus Statements"
-  subtitle: "Last modified: {{< meta date >}}"
   site-url: https://lightforpublichealth.org/
   repo-url: https://github.com/tscnlab/LadenburgConsensusStatements
   issue-url: https://github.com/tscnlab/LadenburgConsensusStatements/issues
   repo-actions: [edit, issue]
   page-navigation: true
   bread-crumbs: true
-  navbar:
+  sidebar:
+    title: "Last modified: {{< meta date >}}"
     left:
       - text: Home
         href: index.qmd
