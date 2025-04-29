@@ -41,9 +41,9 @@ format:
 ### Supporting organisations
 
 ::: {layout-ncol=5}
-![](logo-cie.png)
-![](logo-slrch.png)
-![](logo-dla.png)
-![](logo-glg.png)
-![](logo-cet.png)
+![](assets/logo-cie.png)
+![](assets/logo-slrch.png)
+![](assets/logo-dla.png)
+![](assets/logo-glg.png)
+![](assets/logo-cet.png)
 :::
