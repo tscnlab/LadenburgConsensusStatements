@@ -7,6 +7,6 @@ format:
     lightbox: true
 ---
 
-![](assets/logo-daimler.svg){width=300pt}
+![](assets/logo-daimler.svg){width=200pt}
 
 The [Ladenburg Roundtable “Light for health and well-being – from the biological principles to policy”](https://www.daimler-benz-stiftung.de/cms/en/research/ladenburg-roundtable/light-for-health-and-well-being-from-the-biological-principles-to-politics.html) (14-16 April 2024) was supported by the [Daimler and Benz Foundation](https://www.daimler-benz-stiftung.de/cms/en/). The funders had no role in the content, decision to publish, or preparation of the statements.
