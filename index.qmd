@@ -26,12 +26,10 @@ author:
   - name: "Dr Renske Lok"
     affiliation: "Stanford University, USA"
     orcid: "0000-0003-1684-5625"
+  - name: On behalf of the Ladenburg Light and Health Consortium
 ---
 
 ## Consensus statements for a coordinated health communication campaign
-
-### Authors
-
 
 ### Ladenburg Light and Health Consortium
 
