@@ -40,9 +40,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-630147fbe0b9ab2b2a517857e522e257.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
-<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
-<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -315,20 +312,20 @@ ul.task-list li input[type="checkbox"] {
 <h3 class="anchored" data-anchor-id="supporting-organisations">Supporting organisations</h3>
 <div class="quarto-layout-panel" data-layout-ncol="5">
 <div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 20.0%;justify-content: center;">
-<p><a href="assets/logo-cie.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="assets/logo-cie.png" class="img-fluid"></a></p>
+<div class="quarto-layout-cell" style="flex-basis: 20.0%;justify-content: flex-start;">
+<p>[<img src="assets/logo-cie.png" height="50">]((https://cie.co.at/)</p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 20.0%;justify-content: center;">
-<p><a href="assets/logo-slrch.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="assets/logo-slrch.png" class="img-fluid"></a></p>
+<p><a href="https://slrch.org/"><img src="assets/logo-slrch.png" class="img-fluid"></a></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 20.0%;justify-content: center;">
-<p><a href="assets/logo-dla.png" class="lightbox" data-gallery="quarto-lightbox-gallery-3"><img src="assets/logo-dla.png" class="img-fluid"></a></p>
+<p><a href="https://daylight.academy/"><img src="assets/logo-dla.png" class="img-fluid"></a></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 20.0%;justify-content: center;">
-<p><a href="assets/logo-glg.png" class="lightbox" data-gallery="quarto-lightbox-gallery-4"><img src="assets/logo-glg.png" class="img-fluid"></a></p>
+<p><a href="https://www.goodlightgroup.org/"><img src="assets/logo-glg.png" class="img-fluid"></a></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 20.0%;justify-content: center;">
-<p><a href="assets/logo-cet.png" class="lightbox" data-gallery="quarto-lightbox-gallery-5"><img src="assets/logo-cet.png" class="img-fluid"></a></p>
+<p><a href="https://cet.org/"><img src="assets/logo-cet.png" class="img-fluid"></a></p>
 </div>
 </div>
 </div>
@@ -738,40 +735,8 @@ ul.task-list li input[type="checkbox"] {
   });
   </script>
 </div> <!-- /content -->
-<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/tscnlab/LadenburgConsensusStatements/edit/main/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/tscnlab/LadenburgConsensusStatements/issues" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer><script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
-(function() {
-  let previousOnload = window.onload;
-  window.onload = () => {
-    if (previousOnload) {
-      previousOnload();
-    }
-    lightboxQuarto.on('slide_before_load', (data) => {
-      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
-      const href = trigger.getAttribute('href');
-      if (href !== null) {
-        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
-        if (imgEl !== null) {
-          const srcAttr = imgEl.getAttribute("src");
-          if (srcAttr && srcAttr.startsWith("data:")) {
-            slideConfig.href = srcAttr;
-          }
-        }
-      } 
-    });
-  
-    lightboxQuarto.on('slide_after_load', (data) => {
-      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
-      if (window.Quarto?.typesetMath) {
-        window.Quarto.typesetMath(slideNode);
-      }
-    });
-  
-  };
-  
-})();
-          </script>
 
 
 
 
-</body></html>
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/tscnlab/LadenburgConsensusStatements/edit/main/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/tscnlab/LadenburgConsensusStatements/issues" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer></body></html>
