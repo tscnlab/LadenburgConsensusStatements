@@ -1,5 +1,6 @@
 ---
 title: "Consensus Statements"
+title-block-banner: true
 bibliography: references.bib
 format:
   html:
