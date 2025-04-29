@@ -29,6 +29,7 @@ author:
     affiliation: "Stanford University, USA"
     orcid: "0000-0003-1684-5625"
   - name: On behalf of the Ladenburg Light and Health Consortium
+doi: 10.17617/2.3641511
 ---
 
 ### Supporting organisations
