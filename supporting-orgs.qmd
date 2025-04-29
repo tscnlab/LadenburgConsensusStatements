@@ -1,5 +1,5 @@
 ---
-title: "Supporting organizations"
+title: "Supporting organisations"
 ---
 
 [![](assets/logo-cie.png){width=300pt}](https://cie.co.at/)
