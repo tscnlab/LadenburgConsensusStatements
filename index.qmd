@@ -40,13 +40,3 @@ format:
 
 
 ### Supporting organisations
-
-::: {layout="grid" columns=5}
-
-!(assets/logo-cie.png){fig-align="center"}
-!(assets/logo-cie.png){fig-align="center"}
-!(assets/logo-cie.png){fig-align="center"}
-!(assets/logo-cie.png){fig-align="center"}
-!(assets/logo-cie.png){fig-align="center"}
-
-:::
