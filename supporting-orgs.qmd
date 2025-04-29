@@ -14,7 +14,7 @@ The **[Society for Light, Rhythms, and Circadian Health (SLRCH)](https://slrch.o
 
 The **[Daylight Academy (DLA)](https://daylight.academy/)** is an international membership organisation initiated by the that brings together scientists, architects, engineers and other professionals involved in daylight research or with a strong interest in daylight related topics. By organising networking events, supporting interdisciplinary projects and providing a platform for connection and exchange among the different disciplines and fields of expertise working on daylight, the Academy wants to initiate cooperation, innovation and new knowledge. Such interdisciplinary exchange has the potential to be a catalyst for creativity, novelty and development. The aim is to strengthen daylight research and its applications for the benefit of humanity and nature.
 
-![](assets/logo-glg.png){width=300pt}
+![](assets/logo-glg.png){width=200pt}
 
 The **[Good Light Group](https://www.goodlightgroup.org/)** is a global, nonprofit organisation dedicated to promoting the use of good light. "Good light" is defined as the right light at the right time, offering beneficial effects on the human body and brain. The foundation seeks to achieve this goal by raising awareness of light's impact on both vision and health, fostering global collaboration among scientists, lighting designers, companies, and organisations, and advancing knowledge development. The Good Light Group organizes webinars, creates animations, shares insights through blogs on social media, and produces guides and flyers for both the general public and professionals. The group is made up of participants, science advisors, and partners.
 
