@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://tscnlab.github.io/LadenburgConsensusStatements/foreword.html</loc>
+    <lastmod>2025-04-29T05:47:15.278Z</lastmod>
+  </url>
+  <url>
     <loc>https://tscnlab.github.io/LadenburgConsensusStatements/index.html</loc>
-    <lastmod>2025-04-29T05:45:13.895Z</lastmod>
+    <lastmod>2025-04-29T05:47:15.278Z</lastmod>
   </url>
   <url>
-    <loc>https://tscnlab.github.io/LadenburgConsensusStatements/about.html</loc>
-    <lastmod>2025-04-29T05:45:13.895Z</lastmod>
+    <loc>https://tscnlab.github.io/LadenburgConsensusStatements/supporting-orgs.html</loc>
+    <lastmod>2025-04-29T05:47:15.278Z</lastmod>
   </url>
   <url>
-    <loc>https://tscnlab.github.io/LadenburgConsensusStatements/contributing.html</loc>
-    <lastmod>2025-04-29T05:45:13.895Z</lastmod>
+    <loc>https://tscnlab.github.io/LadenburgConsensusStatements/funding.html</loc>
+    <lastmod>2025-04-29T05:47:15.278Z</lastmod>
   </url>
   <url>
     <loc>https://tscnlab.github.io/LadenburgConsensusStatements/license.html</loc>
-    <lastmod>2025-04-29T05:45:13.895Z</lastmod>
+    <lastmod>2025-04-29T05:47:15.278Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tscnlab.github.io/LadenburgConsensusStatements/consensus-statements.html</loc>
+    <lastmod>2025-04-29T05:47:15.278Z</lastmod>
   </url>
 </urlset>
