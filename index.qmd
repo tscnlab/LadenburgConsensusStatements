@@ -34,13 +34,13 @@ author:
 ### Supporting organisations
 
 ::: {layout-ncol=5}
-[![](assets/logo-cie.png){width=50pt}](https://cie.co.at/)
+[![](assets/logo-cie.png){width=20%}](https://cie.co.at/)
 
-[![](assets/logo-slrch.png){width=50pt}](https://slrch.org/)
+[![](assets/logo-slrch.png){width=20%}](https://slrch.org/)
 
-[![](assets/logo-dla.png){width=50pt}](https://daylight.academy/)
+[![](assets/logo-dla.png){width=20%}](https://daylight.academy/)
 
-[![](assets/logo-glg.png){width=50pt}](https://www.goodlightgroup.org/)
+[![](assets/logo-glg.png){width=20%}](https://www.goodlightgroup.org/)
 
-[![](assets/logo-cet.png){width=50pt}](https://cet.org/)
+[![](assets/logo-cet.png){width=20%}](https://cet.org/)
 :::
