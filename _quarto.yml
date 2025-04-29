@@ -11,10 +11,12 @@ website:
   bread-crumbs: true
   navbar:
     left:
-      - href: index.qmd
-        text: Home
+      - text: Home
+        href: index.qmd
       - text: "Foreword"
         href: foreword.qmd
+      - text: "Background information"
+        href: background-information.qmd
       - text: "Consensus statements"
         href: consensus-statements.qmd
       - text: "Supporting organisations"

@@ -1,103 +1,58 @@
 ---
 title: "Consensus Statements"
+bibliography: references.bib
+format:
+  html:
+    toc: true
+    toc-location: left
+    lightbox: true
 ---
 
 ## Light can be described by its spectrum: how much energy there is at each wavelength across the visible spectrum (from approximately 380 to 780 nm).
 
-
 ### Number
 1
+
 ### Simplified statement
-
-
-
-## White light is made up of multiple wavelengths, which we perceive as colours.
-
+White light is made up of multiple wavelengths, which we perceive as colours.
 
 ### Contextual information
 
 
 
-## When we see different colours, we are actually seeing different wavelengths of light. Short wavelengths appear violet, while longer wavelengths appear indigo, blue, green, yellow, orange, and red.
-
+When we see different colours, we are actually seeing different wavelengths of light. Short wavelengths appear violet, while longer wavelengths appear indigo, blue, green, yellow, orange, and red.
 
 ### References
-
-
-
-## CIE. (2020). ILV: International Lighting Vocabulary. CIE Central Bureau.
-
-
-
-
-
-
-## Boyce, P. R. (2014). Human factors in lighting (3rd ed.). CRC Press, Taylor & Francis Group.
-
-
-
-
-
+CIE. (2020). ILV: International Lighting Vocabulary. CIE Central Bureau.
+Boyce, P. R. (2014). Human factors in lighting (3rd ed.). CRC Press, Taylor & Francis Group.
 
 ## The pattern of one's light exposure across the day and the year can be quite complex, and depends on where one is and what one does.
 
-
 ### Number
 2
+
 ### Simplified statement
-
-
-
-## The amount of light around us (or the amount we are exposed to) changes as we move between indoor and outdoor spaces, throughout the day, and across seasons.
-
+The amount of light around us (or the amount we are exposed to) changes as we move between indoor and outdoor spaces, throughout the day, and across seasons.
 
 ### Contextual information
-
-
-
-## Light from the sun increases from dawn to midday and decreases in the evening. Depending on location, the amount of light in the day varies greatly between summer and winter.
-
+Light from the sun increases from dawn to midday and decreases in the evening. Depending on location, the amount of light in the day varies greatly between summer and winter.
 
 ### References
-
-
-
-## Webler, F. S., Spitschan, M., Foster, R. G., Andersen, M., & Peirson, S. N. (2019). What is the 'spectral diet' of humans? Curr Opin Behav Sci, 30, 80-86.
-
-
-
-
-
+Webler, F. S., Spitschan, M., Foster, R. G., Andersen, M., & Peirson, S. N. (2019). What is the 'spectral diet' of humans? Curr Opin Behav Sci, 30, 80-86.
 
 ## Light exposure can be described by its intensity: The total amount of energy across all wavelengths from 380 to 780 nm, weighted according to the function of interest.
 
-
 ### Number
 3
+
 ### Simplified statement
-
-
-
-## We can measure light exposure by assessing how intense the light is at different wavelengths.
-
+We can measure light exposure by assessing how intense the light is at different wavelengths.
 
 ### Contextual information
-
-
-
-## We can characterise a light source by describing how much power it emits at each wavelength. This power is called intensity. Physicists measure intensity, while biological and psychological scientists study how intensity affects various processes.
-
+We can characterise a light source by describing how much power it emits at each wavelength. This power is called intensity. Physicists measure intensity, while biological and psychological scientists study how intensity affects various processes.
 
 ### References
-
-
-
-## CIE. (2014). CIE TN 002:2014: Relating photochemical and photobiological quantities to photometric quantities. CIE Central Bureau.
-
-
-
-
-
+CIE. (2014). CIE TN 002:2014: Relating photochemical and photobiological quantities to photometric quantities. CIE Central Bureau.
 
 ## Daylight has what we call a broad spectrum, with a lot of energy across many wavelengths.
 

@@ -1,5 +1,10 @@
 ---
 title: "Foreword"
+format:
+  html:
+    toc: true
+    toc-location: left
+    lightbox: true
 ---
 
 For centuries, we thought we understood how the human eye works — until a surprising discovery in the 1990s changed everything. The clue came from a domain quite different from ophthalmology, the medical discipline specialised in the eye. In a strain of mice lacking rod or cone photoreceptors (the retinal cells responsible for colour and light sensitivity), exposure to light affected their behavioural circadian rhythms. The biological clock in these mice was still synchronised by light to the 24-hour day-night cycle even though they were blind with respect to vision. Could there be a third, undiscovered type of photoreceptor present in the retina? The next chapter in this quest was when the intrinsically photosensitive retinal ganglion cells (ipRGCs) were revealed to be the mysterious photoreceptors. Together with rod and cone inputs, they signal a wide range of light levels in the environment, from the dim glow of starlight to the brightness of the midday sun. Their photopigment is melanopsin, with peak sensitivity in the short-wavelength part of the spectrum. Nerve pathways from the ipRGCs to the brain are amazingly diverse, showing that light plays an important role in regulating hormone secretion, sleep regulation, rhythms in body temperature, cognition, mood and alertness, and circadian and seasonal timing.
