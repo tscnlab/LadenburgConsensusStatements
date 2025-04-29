@@ -6,7 +6,7 @@ title: "Supporting organizations"
 
 The **[International Commission on Illumination](https://cie.co.at/)**, also known as the CIE from its French title, the Commission Internationale de l'Éclairage, is dedicated to global cooperation and the exchange of information on all matters related to the science and art of light and lighting, color and vision, light and radiation measurement, outdoor and indoor lighting design, photobiology, and image technology. The CIE is an independent scientific and international standards-developing organization that unites the lighting communities of its member countries to serve the world. CIE documents establish international consensus within its scope. In collaboration with the CIPM, the CIE maintains the international system of light measurement (photometry).
 
-![](assets/logo-slrch.png){width=300pt}
+![](assets/logo-slrch.png){width=250pt}
 
 The **[Society for Light, Rhythms, and Circadian Health (SLRCH)](https://slrch.org/)** is an international scientific non-profit organization devoted to promoting research and knowledge about the effects of light on the organism and the chronobiology of psychiatric as well as other medical disorders. Founded in 1988 as the Society for Light Treatment in Biological Rhythms (SLTBR), the SLRCH has brought together leading scientific experts, clinicians, and interested participants from different professional and multi-disciplinary backgrounds for discussion and exchange on the science and practical application of chronotherapy in medicine. The SLRCH is helping the transition between molecular chronobiology and its clinical application in human health and medicine.
 
