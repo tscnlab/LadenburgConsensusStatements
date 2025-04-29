@@ -35,7 +35,7 @@ doi: 10.17617/2.3641511
 ### Supporting organisations
 
 ::: {layout-ncol=5}
-[![](assets/logo-cie.png){width=200}](https://cie.co.at/)
+[![](assets/logo-cie.png){width=220}](https://cie.co.at/)
 
 [![](assets/logo-slrch.png){width=200}](https://slrch.org/)
 
@@ -43,5 +43,5 @@ doi: 10.17617/2.3641511
 
 [![](assets/logo-glg.png){width=120}](https://www.goodlightgroup.org/)
 
-[![](assets/logo-cet.png){width=200}](https://cet.org/)
+[![](assets/logo-cet.png){width=220}](https://cet.org/)
 :::
