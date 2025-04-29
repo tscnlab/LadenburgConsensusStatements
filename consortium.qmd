@@ -1,5 +1,5 @@
 ---
-title: "Consortium"
+title: "Ladenburg Light and Health Consortium"
 format:
   html:
     toc: true
@@ -7,7 +7,19 @@ format:
     lightbox: true
 ---
 
-### Ladenburg Light and Health Consortium
+### Coordinating committee
+
+| Name                        | Institution                                                                   | Country         | ORCID                                                                 |
+|------------------------------|-------------------------------------------------------------------------------|-----------------|----------------------------------------------------------------------|
+| Prof. Manuel Spitschan       | Technical University of Munich & Max Planck Institute for Biological Cybernetics | Germany        | [0000-0002-8572-9268](https://orcid.org/0000-0002-8572-9268)         |
+| Dr Laura Kervezee            | Leiden University Medical Center                                             | Netherlands     | [0000-0002-6062-9164](https://orcid.org/0000-0002-6062-9164)         |
+| Dr Oliver Stefani            | Lucerne University of Applied Sciences and Arts                              | Switzerland     | [0000-0003-0199-6500](https://orcid.org/0000-0003-0199-6500)         |
+| Dr Marijke Gordijn           | Chrono@Work & University of Groningen                                         | Netherlands     | [0000-0001-9521-8085](https://orcid.org/0000-0001-9521-8085)         |
+| Dr Jennifer A. Veitch        | National Research Council of Canada                                           | Canada          | [0000-0003-3183-4537](https://orcid.org/0000-0003-3183-4537)         |
+| Dr Renske Lok                | Stanford University                                                          | USA             | [0000-0003-1684-5625](https://orcid.org/0000-0003-1684-5625)         |
+
+
+### Consortium members
 
 | Name                          | Institution                                                                 | Country         | ORCID                                                                 |
 |-------------------------------|-----------------------------------------------------------------------------|------------------|------------------------------------------------------------------------|
