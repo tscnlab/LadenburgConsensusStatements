@@ -1,13 +1,11 @@
 ---
-title: "Ladenburg Consensus Statements"
+title: "The circadian, neuroendocrine, and neurobehavioral effects of ocular light exposure on human physiology"
 format:
   html:
     toc: true
     toc-location: left
     lightbox: true
 ---
-
-# The circadian, neuroendocrine, and neurobehavioral effects of ocular light exposure on human physiology
 
 ## Consensus statements for a coordinated health communication campaign
 
