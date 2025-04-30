@@ -43,11 +43,11 @@ Spitschan, M., Kervezee, L., Stefani, O., Gordijn, M., Veitch, J. A., Lok, R., &
 ::: {layout-ncol=5}
 [![](assets/logo-cie.png){width=220}](https://cie.co.at/)
 
-[![](assets/logo-slrch.png){width=200}](https://slrch.org/)
+[![](assets/logo-slrch.png){width=150}](https://slrch.org/)
 
 [![](assets/logo-dla.png){width=80}](https://daylight.academy/)
 
 [![](assets/logo-glg.png){width=120}](https://www.goodlightgroup.org/)
 
-[![](assets/logo-cet.png){width=220}](https://cet.org/)
+[![](assets/logo-cet.png){width=250}](https://cet.org/)
 :::
