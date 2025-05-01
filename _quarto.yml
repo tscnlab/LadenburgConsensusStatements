@@ -32,7 +32,7 @@ website:
         aria-label: Quarto GitHub
   page-footer:
     center: |
-      [![](assets/logo-mpi.png)](https://www.kyb.tuebingen.mpg.de/en){width=150}
+      [![](assets/logo-mpi.png){width=100}](https://www.kyb.tuebingen.mpg.de/en)
     right: "[Imprint](imprint.qmd)"
 
 format:
