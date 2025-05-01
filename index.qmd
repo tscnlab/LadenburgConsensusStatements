@@ -9,23 +9,23 @@ format:
     toc-location: left
     lightbox: true
 author:
-  - name: "Prof. Manuel Spitschan"
+  - name: "Manuel Spitschan"
     affiliation: "Technical University of Munich & Max Planck Institute for Biological Cybernetics, Germany"
     orcid: "0000-0002-8572-9268"
     corresponding: true
-  - name: "Dr Laura Kervezee"
+  - name: "Laura Kervezee"
     affiliation: "Leiden University Medical Center, Netherlands"
     orcid: "0000-0002-6062-9164"
-  - name: "Dr Oliver Stefani"
+  - name: "Oliver Stefani"
     affiliation: "Lucerne University of Applied Sciences and Arts, Switzerland"
     orcid: "0000-0003-0199-6500"
-  - name: "Dr Marijke Gordijn"
+  - name: "Marijke Gordijn"
     affiliation: "Chrono@Work & University of Groningen, Netherlands"
     orcid: "0000-0001-9521-8085"
-  - name: "Dr Jennifer A. Veitch"
+  - name: "Jennifer A. Veitch"
     affiliation: "National Research Council of Canada, Canada"
     orcid: "0000-0003-3183-4537"
-  - name: "Dr Renske Lok"
+  - name: "Renske Lok"
     affiliation: "Stanford University, USA"
     orcid: "0000-0003-1684-5625"
   - name: On behalf of the Ladenburg Light and Health Consortium
