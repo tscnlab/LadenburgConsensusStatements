@@ -32,8 +32,8 @@ website:
         href: https://github.com/tscnlab/LadenburgConsensusStatements
         aria-label: Quarto GitHub
   page-footer:
-    left: |
-      [![Max Planck Institute for Biological Cybernetics](assets/logo-mpi.png)](https://www.kyb.tuebingen.mpg.de/en)
+    center: |
+      [![](assets/logo-mpi.png)](https://www.kyb.tuebingen.mpg.de/en){width=150}
     right: "[Imprint](imprint.qmd)"
 
 format:
