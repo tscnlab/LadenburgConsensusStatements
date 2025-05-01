@@ -5,7 +5,7 @@ bibliography: references.bib
 format:
   html:
     toc: true
-    toc-location: left
+    toc-location: body
     toc-depth: 2
     lightbox: true
 doi: 10.17617/2.3641511
