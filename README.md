@@ -2,27 +2,27 @@
 
 # Evidence-based public health messaging on the non-visual effects of ocular light exposure
 ## Consensus statements for a coordinated health communication campaign
-**Prof. Manuel Spitschan**  
+**Manuel Spitschan**  
 Technical University of Munich & Max Planck Institute for Biological Cybernetics, Germany  
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8572--9268-a6ce39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-8572-9268)
 
-**Dr Laura Kervezee**  
+**Laura Kervezee**  
 Leiden University Medical Center, Netherlands  
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--6062--9164-a6ce39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-6062-9164)
 
-**Dr Oliver Stefani**  
+**Oliver Stefani**  
 Lucerne University of Applied Sciences and Arts, Switzerland  
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--0199--6500-a6ce39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-0199-6500)
 
-**Dr Marijke Gordijn**  
+**Marijke Gordijn**  
 Chrono@Work & University of Groningen, Netherlands  
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--9521--8085-a6ce39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-9521-8085)
 
-**Dr Jennifer A. Veitch**  
+**Jennifer A. Veitch**  
 National Research Council of Canada, Canada  
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3183--4537-a6ce39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-3183-4537)
 
-**Dr Renske Lok**  
+**Renske Lok**  
 Stanford University, USA  
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--1684--5625-a6ce39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-1684-5625)
 
