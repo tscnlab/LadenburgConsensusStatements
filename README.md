@@ -1,3 +1,5 @@
+<img src="https://github.com/tscnlab/Templates/blob/main/logo/logo_with_text-01.png" width="400"/>
+
 # Evidence-based public health messaging on the non-visual effects of ocular light exposure
 ## Consensus statements for a coordinated health communication campaign
 
