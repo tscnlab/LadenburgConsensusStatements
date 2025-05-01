@@ -23,7 +23,7 @@ website:
       - text: "Funding"
         href: funding.qmd
       - text: "License"
-        href: license-statements.qmd
+        href: lic-statements.qmd
     right:
       - icon: github
         href: https://github.com/tscnlab/LadenburgConsensusStatements
