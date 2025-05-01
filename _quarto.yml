@@ -31,8 +31,10 @@ website:
       - icon: github
         href: https://github.com/tscnlab/LadenburgConsensusStatements
         aria-label: Quarto GitHub
-    body footer: |
-      Test
+    page-footer:
+      left: "Left text"
+      center: "Center text"
+      right: "[GitHub](https://github.com)"
 
 format:
   html:
