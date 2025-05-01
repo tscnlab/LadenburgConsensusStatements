@@ -5,6 +5,7 @@ website:
   title: "Ladenburg Consensus Statements"
   site-url: https://lightforpublichealth.org/
   repo-url: https://github.com/tscnlab/LadenburgConsensusStatements
+  repo-actions: []
   issue-url: https://github.com/tscnlab/LadenburgConsensusStatements/issues
   page-navigation: true
   bread-crumbs: true
