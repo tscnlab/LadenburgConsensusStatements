@@ -2,6 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
-.DStore
+*.DStore
 /.quarto/
 _site/
