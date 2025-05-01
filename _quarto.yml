@@ -31,14 +31,14 @@ website:
         href: https://github.com/tscnlab/LadenburgConsensusStatements
         aria-label: Quarto GitHub
   page-footer:
-    center: "[Imprint](imprint.qmd)"
-    right: |
+    center: |
       [![](assets/logo-mpi.png){width=180pt}](https://www.kyb.tuebingen.mpg.de/en)
+    right: "[Imprint](imprint.qmd)"
 
 format:
   html:
     theme:
-      - cosmo
+      - sandstone
       - brand
     css: styles.css
     toc: true
