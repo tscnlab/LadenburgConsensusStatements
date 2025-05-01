@@ -31,6 +31,8 @@ website:
       - icon: github
         href: https://github.com/tscnlab/LadenburgConsensusStatements
         aria-label: Quarto GitHub
+    body footer: |
+      Test
 
 format:
   html:
