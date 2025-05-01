@@ -57,6 +57,8 @@ The content of this project is licensed under the [Creative Commons Attribution 
 
 ### Citation
 
+<img src="https://github.com/tscnlab/Templates/blob/main/logo/logo_with_text-01.png" width="400"/>
+
 If you use or reference this work, please cite it as follows:
 
 > Spitschan, M., Kervezee, L., Stefani, O., Gordijn, M., Veitch, J. A., Lok, R., & Ladenburg Light and Health Consortium (2025). Evidence-based public health messaging on the non-visual effects of ocular light exposure: Core statements for a coordinated health communication campaign. DOI: 10.17617/2.3641511.
