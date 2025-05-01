@@ -1,49 +1,50 @@
 cff-version: 1.2.0
-message: "If you use this work, please cite it as below."
-title: "Evidence-based public health messaging on the non-visual effects of ocular light exposure"
-subtitle: "Consensus statements for a coordinated health communication campaign"
+title: >-
+  Evidence-based public health messaging on the non-visual
+  effects of ocular light exposure: Consensus statements for
+  a coordinated health communication campaign
+message: 'If you use this work, please cite it as below.'
+type: software
 authors:
   - family-names: Spitschan
     given-names: Manuel
-    name: "Prof. Manuel Spitschan"
-    affiliation: "Technical University of Munich & Max Planck Institute for Biological Cybernetics, Germany"
-    orcid: "https://orcid.org/0000-0002-8572-9268"
-    corresponding-author: true
+    affiliation: >-
+      Technical University of Munich & Max Planck Institute
+      for Biological Cybernetics, Germany
+    orcid: 'https://orcid.org/0000-0002-8572-9268'
   - family-names: Kervezee
     given-names: Laura
-    name: "Dr Laura Kervezee"
-    affiliation: "Leiden University Medical Center, Netherlands"
-    orcid: "https://orcid.org/0000-0002-6062-9164"
+    affiliation: 'Leiden University Medical Center, Netherlands'
+    orcid: 'https://orcid.org/0000-0002-6062-9164'
   - family-names: Stefani
     given-names: Oliver
-    name: "Dr Oliver Stefani"
-    affiliation: "Lucerne University of Applied Sciences and Arts, Switzerland"
-    orcid: "https://orcid.org/0000-0003-0199-6500"
+    affiliation: >-
+      Lucerne University of Applied Sciences and Arts,
+      Switzerland
+    orcid: 'https://orcid.org/0000-0003-0199-6500'
   - family-names: Gordijn
     given-names: Marijke
-    name: "Dr Marijke Gordijn"
-    affiliation: "Chrono@Work & University of Groningen, Netherlands"
-    orcid: "https://orcid.org/0000-0001-9521-8085"
+    affiliation: 'Chrono@Work & University of Groningen, Netherlands'
+    orcid: 'https://orcid.org/0000-0001-9521-8085'
   - family-names: Veitch
     given-names: Jennifer A.
-    name: "Dr Jennifer A. Veitch"
-    affiliation: "National Research Council of Canada, Canada"
-    orcid: "https://orcid.org/0000-0003-3183-4537"
+    affiliation: 'National Research Council of Canada, Canada'
+    orcid: 'https://orcid.org/0000-0003-3183-4537'
   - family-names: Lok
     given-names: Renske
-    name: "Dr Renske Lok"
-    affiliation: "Stanford University, USA"
-    orcid: "https://orcid.org/0000-0003-1684-5625"
-  - name: "On behalf of the Ladenburg Light and Health Consortium"
-date-released: 2025-04-17
-doi: "10.17617/2.3641511"
-url: "https://doi.org/10.17617/2.3641511"
-repository-code: "https://github.com/tscnlab/LadenburgConsensusStatements"  # Replace with actual repo if applicable
+    affiliation: 'Stanford University, USA'
+    orcid: 'https://orcid.org/0000-0003-1684-5625'
+  - name: Ladenburg Light and Health Consortium
+    website: 'https://lightforpublichealth.org/consortium'
+identifiers:
+  - type: doi
+    value: 10.17617/2.3641511
+repository-code: 'https://github.com/tscnlab/LadenburgConsensusStatements'
+url: 'https://doi.org/10.17617/2.3641511'
 keywords:
   - circadian rhythms
   - public health
   - light exposure
   - health communication
   - non-visual effects
-license: "CC-BY-4.0"
-type: report
+license: CC-BY-4.0
