@@ -3,6 +3,7 @@ title: "Foreword"
 title-block-banner: true
 format:
   html:
+    page-layout: full
     toc: false
     toc-location: left
     lightbox: true
