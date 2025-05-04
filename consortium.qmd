@@ -3,7 +3,7 @@ title: "Ladenburg Light and Health Consortium"
 title-block-banner: true
 format:
   html:
-    toc: true
+    toc: false
     toc-location: left
     lightbox: true
 doi: 10.17617/2.3641511
