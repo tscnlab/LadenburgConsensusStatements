@@ -38,9 +38,9 @@ authors:
     website: 'https://lightforpublichealth.org/consortium'
 identifiers:
   - type: doi
-    value: 10.17617/2.3641511
+    value: 10.17617/1.4a6s-ec74
 repository-code: 'https://github.com/tscnlab/LadenburgConsensusStatements'
-url: 'https://doi.org/10.17617/2.3641511'
+url: 'https://doi.org/10.17617/1.4a6s-ec74'
 keywords:
   - circadian rhythms
   - public health

@@ -29,13 +29,13 @@ author:
     affiliation: "Stanford University, USA"
     orcid: "0000-0003-1684-5625"
   - name: On behalf of the Ladenburg Light and Health Consortium
-doi: 10.17617/2.3641511
+doi: 10.17617/1.4a6s-ec74
 ---
 
 Light affects our sleep, mood, and health by influencing our body’s internal clock, hormones and cognition. The Ladenburg Light and Health Consortium created clear, science-based statements to help explain why healthy light exposure matters. This information, targeted to public-health multipliers, is meant to support better communication for healthier light exposure for everyone.
 
 ::: {.callout-note title="Citation"}
-Spitschan, M., Kervezee, L., Stefani, O., Gordijn, M., Veitch, J. A., Lok, R., & Ladenburg Light and Health Consortium (2025). Evidence-based public health messaging on the non-visual effects of ocular light exposure: Core statements for a coordinated health communication campaign. DOI: [10.17617/2.3641511](https://doi.org/10.17617/2.3641511).
+Spitschan, M., Kervezee, L., Stefani, O., Gordijn, M., Veitch, J. A., Lok, R., & Ladenburg Light and Health Consortium (2025). Evidence-based public health messaging on the non-visual effects of ocular light exposure: Core statements for a coordinated health communication campaign. DOI: [10.17617/1.4a6s-ec74](https://doi.org/10.17617/1.4a6s-ec74).
 :::
 
 ### Supporting organisations

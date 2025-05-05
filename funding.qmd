@@ -7,7 +7,7 @@ format:
     toc: false
     toc-location: left
     lightbox: true
-doi: 10.17617/2.3641511
+doi: 10.17617/1.4a6s-ec74
 ---
 
 [![](assets/logo-daimler.png){width=200pt}](https://www.daimler-benz-stiftung.de/cms/en/)

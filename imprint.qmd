@@ -6,7 +6,7 @@ format:
     toc: true
     toc-location: left
     lightbox: true
-doi: 10.17617/2.3641511
+doi: 10.17617/1.4a6s-ec74
 ---
 
 [Max Planck Research Group Translational Sensory and Circadian Neuroscience](https://www.kyb.tuebingen.mpg.de/614159/translational-sensory-and-circadian-neuroscience)

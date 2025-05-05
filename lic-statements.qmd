@@ -7,7 +7,7 @@ format:
     toc: true
     toc-location: left
     lightbox: true
-doi: 10.17617/2.3641511
+doi: 10.17617/1.4a6s-ec74
 ---
 
 This work is licensed under a [Creative Commons Attribution (CC-BY) License](https://creativecommons.org/licenses/by/4.0/).

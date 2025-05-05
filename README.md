@@ -33,7 +33,7 @@ On behalf of the [Ladenburg Light and Health Consortium](https://lightforpublich
 
 This repository contains the source code for the website underlying the **Ladenburg Consensus Statements**, a Quarto-based website that compiles expert consensus on the intersection of public health and digital transformation.
 
-The live website is available at: [lightforpublichealth.org](https://lightforpublichealth.org/) (DOI: [10.17617/2.3641511](https://doi.org/110.17617/2.3641511)).
+The live website is available at: [lightforpublichealth.org](https://lightforpublichealth.org/) (DOI: [10.17617/1.4a6s-ec74](https://doi.org/110.17617/1.4a6s-ec74)).
 
 Permanent Zenodo archive of this repository: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15306470.svg)](https://doi.org/10.5281/zenodo.15306470).
 
@@ -91,7 +91,7 @@ The content of this project is licensed under the [Creative Commons Attribution 
 
 If you use or reference this work, please cite it as follows:
 
-> Spitschan, M., Kervezee, L., Stefani, O., Gordijn, M., Veitch, J. A., Lok, R., & Ladenburg Light and Health Consortium (2025). Evidence-based public health messaging on the non-visual effects of ocular light exposure: Core statements for a coordinated health communication campaign. DOI: 10.17617/2.3641511.
+> Spitschan, M., Kervezee, L., Stefani, O., Gordijn, M., Veitch, J. A., Lok, R., & Ladenburg Light and Health Consortium (2025). Evidence-based public health messaging on the non-visual effects of ocular light exposure: Core statements for a coordinated health communication campaign. DOI: 10.17617/1.4a6s-ec74.
 
 ### Contact
 
