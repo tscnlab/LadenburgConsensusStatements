@@ -1,0 +1,114 @@
+---
+title: "Press Kit"
+subtitle: "Light for Public Health Initiative"
+title-block-banner: true
+format:
+  html:
+    page-layout: full
+    toc: false
+    toc-location: left
+    lightbox: true
+---
+
+# Overview
+
+The *Light for Public Health* Initiative is a coordinated international campaign to raise awareness about the effects of light exposure through the eyes on human health. Grounded in interdisciplinary research, this effort brings together global experts in chronobiology, neuroscience, lighting, and public health communication to deliver clear, evidence-based messages to public-health multipliers.
+
+The initiative emerged from the [Ladenburg Roundtable "Light for health and well-being: From mechanisms to policy"](https://www.daimler-benz-stiftung.de/cms/en/research/ladenburg-roundtable/light-for-health-and-well-being-from-the-biological-principles-to-politics.html) (14–16 April 2024), where 21 international scientists gathered to develop a path from research to real life. Their key recommendations and strategy were outlined in a [white paper](https://osf.io/rxa35/). The Ladenburg Light and Health Consortium has since developed 26 consensus statements on the connections between light and human health, available at [lightforpublichealth.org](https://lightforpublichealth.org).
+
+The campaign will formally launch on UNESCO’s [International Day of Light](https://www.lightday.org), 16 May 2025.
+
+::: {.callout-note title="Download Presskit"}
+The full press kit can be downloaded [here](assets/20250505_PressKit.pdf){target="_blank"}.
+:::
+
+# Mission
+
+To inform and empower public health organisations with accessible, science-based guidance on how light affects our biological rhythms, sleep, and well-being, and how to optimise light exposure in daily life.
+
+# Key messages
+
+-   Light is a powerful signal for the body as it affects our circadian rhythms, sleep, mood, and cognitive performance.
+-   It’s not just about how bright the light is: when and what kind of light matters.
+-   Daylight during the morning and daytime supports aspects of health, while light at night can be disruptive.
+-   Low light levels in the evening, and darkness while sleeping are part of a healthy light-dark rhythm.
+-   Managing light exposure is part of a healthy lifestyle, just like diet, exercise, and sleep hygiene.
+
+# Frequently Asked Questions (FAQ)
+
+## What is the Light for Public Health initiative?
+
+A global communication campaign created by scientists to raise awareness of how light through the eyes affects health and well-being.
+
+## Who is behind the initiative?
+
+It is led by an international working group of experts and supported by five core organizations: the International Commission on Illumination (CIE), the Society for Light, Rhythms and Circadian Health (SLRCH), the Daylight Academy (DLA), the Good Light Group (GLG), and the Center for Environmental Therapeutics (CET).
+
+## Why now?
+
+Most people spend most of their time indoors, often receiving suboptimal light. Addressing this is essential for public health. By improving access to healthy lighting environments, we can support both mental and physical well-being at a population level.
+
+## What are the health effects of light exposure?
+
+Light affects health by regulating mood, alertness, and sleep. Daylight enhances well-being, while evening light can delay sleep. Inadequate light disrupts daily circadian rhythms and sleep and contributes to various health problems.
+
+## Who is the initiative for?
+
+Everyone! The general public, parents, patients, health and safety professionals, designers, and architects.
+
+## How can I get involved?
+
+Visit the website, share resources, or become a partner for disseminating the information.
+
+## Where can I find the Consensus Statements?
+
+The consensus statements can be found on the website, [lightforpublichealth.org](https://lightforpublichealth.org/consensus-statements.html).
+
+## How was scientific consensus established?
+
+Consensus was reached through a modified Delphi process, which involved:
+
+-   Two structured rounds of expert review and anonymous rating
+-   A predefined agreement threshold of ≥75% for consensus
+-   Revisions based on feedback from scientists and communication experts
+-   Final readability testing to ensure accessibility
+
+This approach ensured that the final messages are both scientifically accurate and understandable by a broad audience.
+
+## Who were the experts who wrote this?
+
+The consensus process was led by a **coordinating committee of six scientists** from five major organizations (CIE, SLRCH, DLA, GLG, CET), supported by a broader **international consortium of 21 experts**. The experts represent fields such as chronobiology, neuroscience, psychology, lighting science, and public health, and are affiliated with institutions in Europe, North America, Asia, and Australia. The full list can be found at [lightforpublichealth.org](https://lightforpublichealth.org/consortium.html).
+
+## Who funded this initiative?
+
+The initial expert meeting took place as part of the Ladenburg Roundtable, which was supported by the [Daimler and Benz Foundation](https://www.daimler-benz-stiftung.de/cms/en). The funders played no role in the design, conduct, or reporting of this work. Additional support is provided by the supporting organisations.
+
+## Supporting Organisations
+
+About the [International Commission on Illumination (CIE)](https://cie.co.at): The International Commission on Illumination, also known as the CIE from its French title, the Commission Internationale de l'Éclairage, is dedicated to global cooperation and the exchange of information on all matters related to the science and art of light and lighting, color and vision, light and radiation measurement, outdoor and indoor lighting design, photobiology, and image technology. The CIE is an independent scientific and international standards-developing organisation that unites the lighting communities of its member countries to serve the world. CIE documents establish international consensus within their scope. In collaboration with the CIPM, the CIE maintains the international system of light measurement (photometry).
+
+About the [Society for Light, Rhythms, and Circadian Health (SLRCH)](https://slrch.org): The Society for Light, Rhythms, and Circadian Health (SLRCH) is an international scientific non-profit organization devoted to promoting research and knowledge about the effects of light on the organism and the chronobiology of psychiatric as well as other medical disorders. Founded in 1988 as the Society for Light Treatment in Biological Rhythms (SLTBR), the SLRCH has brought together leading scientific experts, clinicians, and interested participants from different professional and multi-disciplinary backgrounds for discussion and exchange on the science and practical application of chronotherapy in medicine. The SLRCH is helping the transition between molecular chronobiology and its clinical application in human health and medicine.
+
+About the [Daylight Academy (DLA)](https://daylight.academy): The Daylight Academy (DLA) is an international membership organisation initiated by the [Velux Stiftung](https://veluxstiftung.ch) that brings together scientists, architects, engineers and other professionals involved in daylight research or strongly interested in daylight-related topics. By organising networking events, supporting interdisciplinary projects and providing a platform for connection and exchange among the different disciplines and fields of expertise working on daylight, the Academy wants to initiate cooperation, innovation and new knowledge. Such interdisciplinary exchange has the potential to be a catalyst for creativity, novelty and development. The aim is to strengthen daylight research and its applications to benefit of humanity and nature.
+
+About the [Good Light Group (GLG)](https://www.goodlightgroup.org): The Good Light Group is a global, nonprofit organisation dedicated to promoting the use of good light. "Good light" is defined as the right light at the right time, offering beneficial effects on the human body and brain. The foundation seeks to achieve this goal by raising awareness of light's impact on both vision and health, fostering global collaboration among scientists, lighting designers, companies, and organisations, and advancing knowledge development. The Good Light Group organizes webinars, creates animations, shares insights through blogs on social media, and produces guides and flyers for both the general public and professionals. The group is made up of participants, science advisors, and partners.
+
+About the [Center for Environmental Therapeutics (CET)](https://cet.org): Founded in 1994, the Center for Environmental Therapeutics (CET) is a nonprofit organization dedicated to education and research on new environmental therapies that focus on scientifically validated approaches to optimizing mood, sleep, and performance, mainly through light therapy, chronotherapy, and other non-pharmacological treatments. The organization seeks to achieve this goal by raising awareness about how light exposure, sleep timing, and behavioral interventions can improve mental health and well-being, fostering collaboration among researchers, clinicians, and the public, and promoting evidence-based solutions. CET provides educational resources, shares insights through articles and social media, and offers practical tools for individuals and healthcare professionals.
+
+# Contact
+
+### Coordination
+
+|                            |                           |
+|----------------------------|---------------------------|
+| Prof. Dr. Manuel Spitschan |  manuel.spitschan\@tum.de |
+
+### Supporting organizations
+
+|                                                 |                           |
+|-------------------------------------------------|---------------------------|
+| CIE Central Bureau                              |  ciecb\@cie.co.at         |
+| Society for Light, Rhythms and Circadian Health |  contact.slrch\@gmail.com |
+| Daylight Academy Office                         |  office\@daylight.academy |
+| Good Light Group                                |  info\@goodlightgroup.org |
+| Center for Environmental Therapeutics           |  info\@cet.org            |
