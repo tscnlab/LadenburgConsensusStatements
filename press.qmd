@@ -5,7 +5,7 @@ title-block-banner: true
 format:
   html:
     page-layout: full
-    toc: false
+    toc: true
     toc-location: left
     lightbox: true
 ---
