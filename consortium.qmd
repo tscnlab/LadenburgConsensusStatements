@@ -1,5 +1,6 @@
 ---
 title: "Ladenburg Light and Health Consortium"
+subtitle: "Light for Public Health Initiative"
 title-block-banner: true
 format:
   html:
