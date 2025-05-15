@@ -20,6 +20,8 @@ website:
         href: consensus-statements.qmd
       - text: "Supporting organisations"
         href: supporting-orgs.qmd
+      - text: "Materials"
+        href: materials.qmd
       - text: "Press kit"
         href: press.qmd
       - text: "Funding"
