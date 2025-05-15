@@ -8,7 +8,6 @@ website:
   bread-crumbs: true
   navbar:
     logo: "assets/logo-initiative.png"
-    logo-alt: "Light for Public Health"
     left:
       - text: Home
         href: index.qmd
