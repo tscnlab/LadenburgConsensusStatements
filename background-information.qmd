@@ -1,5 +1,6 @@
 ---
 title: "Background information"
+subtitle: "Light for Public Health Initiative"
 title-block-banner: true
 bibliography: references.bib
 format:
