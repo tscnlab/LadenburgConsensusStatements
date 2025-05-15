@@ -1,6 +1,7 @@
 ---
 title: "Evidence-based public health messaging on the non-visual effects of ocular light exposure"
 subtitle: "Consensus statements for a coordinated health communication campaign"
+image: "assets/logo-initiative.png"
 title-block-banner: true
 format:
   html:
