@@ -12,7 +12,7 @@ website:
         href: index.qmd
       - text: "Foreword"
         href: foreword.qmd
-      - text: "Background information"
+      - text: "Background"
         href: background-information.qmd
       - text: "Consortium"
         href: consortium.qmd
@@ -20,7 +20,7 @@ website:
         href: consensus-statements.qmd
       - text: "Supporting organisations"
         href: supporting-orgs.qmd
-      - text: "Materials and resources"
+      - text: "Materials"
         href: materials.qmd
       - text: "Press kit"
         href: press.qmd
