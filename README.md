@@ -51,6 +51,8 @@ The repository is organized as follows:
 - `consensus-statements.qmd` – The main consensus statements
 - `consortium.qmd` – Information about the contributing experts and organizations
 - `supporting-orgs.qmd` – List of supporting organizations
+- `materials.qmd` - Materials and resources
+- `press.qmd` - Press kit
 - `funding.qmd` – Funding sources and acknowledgments
 - `imprint.qmd` – Legal information and imprint
 - `license-statements.qmd` – Licensing information for the content
