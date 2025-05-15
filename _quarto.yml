@@ -5,7 +5,6 @@ website:
   title: "Light for Public Health"
   logo: assets/logo-initiative.png
   logo-alt: "Light for Public Health"
-  logo-href: https://lightforpublichealth.org/
   site-url: https://lightforpublichealth.org/
   page-navigation: true
   bread-crumbs: true
