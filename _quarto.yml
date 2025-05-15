@@ -7,8 +7,8 @@ website:
   page-navigation: true
   bread-crumbs: true
   image: "assets/logo-initiative.png"
-  open-graph:
-    image: "assets/logo-initiative.png"
+  open-graph: true
+  twitter-card: true
   navbar:
     logo: "assets/logo-initiative.png"
     left:
