@@ -6,8 +6,8 @@ website:
   site-url: https://lightforpublichealth.org/
   page-navigation: true
   bread-crumbs: true
+  image: "assets/logo-initiative.png"
   navbar:
-    title: ""
     logo: "assets/logo-initiative.png"
     left:
       - text: Home
