@@ -3,7 +3,7 @@ project:
 
 website:
   title: "Light for Public Health"
-  logo: assets/logo-initiative.png
+  logo: "assets/logo-initiative.png"
   logo-alt: "Light for Public Health"
   site-url: https://lightforpublichealth.org/
   page-navigation: true
