@@ -1,5 +1,5 @@
 ---
-title: "Press Kit"
+title: "Press kit"
 subtitle: "Light for Public Health Initiative"
 title-block-banner: true
 format:
