@@ -8,6 +8,7 @@ website:
   bread-crumbs: true
   image: "assets/logo-initiative.png"
   open-graph: true
+    image: "assets/logo-initiative.png"
   navbar:
     logo: "assets/logo-initiative.png"
     left:
