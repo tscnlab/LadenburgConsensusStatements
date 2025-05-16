@@ -15,3 +15,13 @@ format:
 This page contains materials and resources related to the Light for Public Health Initiative.
 
 ## Ilustrations by Olivia Walch
+
+The following illustrations by [Dr Olivia Walch](http://oliviawalch.com/) are licensed under the CC-BY License.
+
+![How the eye talks to the brain: Light detection beyond vision](walch_01_retinal_physiology.png)
+
+![Exposure to light at different times of day alters the timing of sleep and wakefulness](walch_02_behavioural_light_effects.png)
+
+![The types of light we see throughout the day: Daylight vs. electric light](walch_03_spectral_differences.png)
+
+![Same light, different effects: How age, gender, and other factors influence the effects of light](walch_04_interindividual_differences.png)
