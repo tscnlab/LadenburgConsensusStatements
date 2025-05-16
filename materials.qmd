@@ -12,7 +12,13 @@ format:
 
 # Overview
 
-This page contains materials and resources related to the Light for Public Health Initiative.
+This page contains materials and resources related to the Light for Public Health Initiative, typically licensed under the CC-BY License.
+
+::: {.callout-tip}
+## Interested in contributing?
+
+If you have any materials you wish to contribute, please get in touch by emailing manuel.spitschan@tum.de.
+:::
 
 ## Ilustrations by Olivia Walch
 
