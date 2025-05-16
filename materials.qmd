@@ -24,10 +24,10 @@ If you have any materials you wish to contribute, please get in touch by emailin
 
 The following illustrations by [Dr Olivia Walch](http://oliviawalch.com/) are licensed under the CC-BY License.
 
-![How the eye talks to the brain: Light detection beyond vision](assets/walch_01_retinal_physiology.png){width=300}
+![How the eye talks to the brain: Light detection beyond vision](assets/walch_01_retinal_physiology.png){fig-align="left" width=500}
 
-![Exposure to light at different times of day alters the timing of sleep and wakefulness](assets/walch_02_behavioural_light_effects.png){width=300}
+![Exposure to light at different times of day alters the timing of sleep and wakefulness](assets/walch_02_behavioural_light_effects.png){fig-align="left" width=500}
 
-![The types of light we see throughout the day: Daylight vs. electric light](assets/walch_03_spectral_differences.png){width=300}
+![The types of light we see throughout the day: Daylight vs. electric light](assets/walch_03_spectral_differences.png){fig-align="left" width=500}
 
-![Same light, different effects: How age, gender, and other factors influence the effects of light](assets/walch_04_interindividual_differences.png){width=300}
+![Same light, different effects: How age, gender, and other factors influence the effects of light](assets/walch_04_interindividual_differences.png){fig-align="left" width=500}
