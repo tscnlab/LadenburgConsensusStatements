@@ -25,7 +25,7 @@ If you have any materials you wish to contribute, please get in touch by emailin
 
 The following illustrations by [Dr Olivia Walch](http://oliviawalch.com/) are licensed under the CC-BY License.
 
-![How the brain interprets light: Spectral signals and visual processing](assets/walch_01_spectra_processing.png){fig-align="left" width=500}
+![How the brain interprets light: Spectral signals in our environment](assets/walch_01_spectra_processing.png){fig-align="left" width=500}
 
 ![How the eye talks to the brain: Light detection beyond vision](assets/walch_02_retinal_physiology.png){fig-align="left" width=500}
 
