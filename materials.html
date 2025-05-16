@@ -212,31 +212,44 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="overview" class="level1">
 <h1>Overview</h1>
-<p>This page contains materials and resources related to the Light for Public Health Initiative.</p>
+<p>This page contains materials and resources related to the Light for Public Health Initiative, typically licensed under the CC-BY License.</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Interested in contributing?
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>If you have any materials you wish to contribute, please get in touch by emailing manuel.spitschan@tum.de.</p>
+</div>
+</div>
 <section id="ilustrations-by-olivia-walch" class="level2">
 <h2 class="anchored" data-anchor-id="ilustrations-by-olivia-walch">Ilustrations by Olivia Walch</h2>
 <p>The following illustrations by <a href="http://oliviawalch.com/">Dr Olivia Walch</a> are licensed under the CC-BY License.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="assets/walch_01_retinal_physiology.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" data-glightbox="description: .lightbox-desc-1" title="How the eye talks to the brain: Light detection beyond vision"><img src="assets/walch_01_retinal_physiology.png" class="img-fluid figure-img" alt="How the eye talks to the brain: Light detection beyond vision"></a></p>
+<p><a href="assets/walch_01_retinal_physiology.png" class="lightbox" data-glightbox="description: .lightbox-desc-1" data-gallery="quarto-lightbox-gallery-1" title="How the eye talks to the brain: Light detection beyond vision"><img src="assets/walch_01_retinal_physiology.png" class="img-fluid figure-img" alt="How the eye talks to the brain: Light detection beyond vision"></a></p>
 <figcaption>How the eye talks to the brain: Light detection beyond vision</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="assets/walch_02_behavioural_light_effects.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2" data-glightbox="description: .lightbox-desc-2" title="Exposure to light at different times of day alters the timing of sleep and wakefulness"><img src="assets/walch_02_behavioural_light_effects.png" class="img-fluid figure-img" alt="Exposure to light at different times of day alters the timing of sleep and wakefulness"></a></p>
+<p><a href="assets/walch_02_behavioural_light_effects.png" class="lightbox" data-glightbox="description: .lightbox-desc-2" data-gallery="quarto-lightbox-gallery-2" title="Exposure to light at different times of day alters the timing of sleep and wakefulness"><img src="assets/walch_02_behavioural_light_effects.png" class="img-fluid figure-img" alt="Exposure to light at different times of day alters the timing of sleep and wakefulness"></a></p>
 <figcaption>Exposure to light at different times of day alters the timing of sleep and wakefulness</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="assets/walch_03_spectral_differences.png" class="lightbox" data-gallery="quarto-lightbox-gallery-3" data-glightbox="description: .lightbox-desc-3" title="The types of light we see throughout the day: Daylight vs.&nbsp;electric light"><img src="assets/walch_03_spectral_differences.png" class="img-fluid figure-img" alt="The types of light we see throughout the day: Daylight vs.&nbsp;electric light"></a></p>
+<p><a href="assets/walch_03_spectral_differences.png" class="lightbox" data-glightbox="description: .lightbox-desc-3" data-gallery="quarto-lightbox-gallery-3" title="The types of light we see throughout the day: Daylight vs.&nbsp;electric light"><img src="assets/walch_03_spectral_differences.png" class="img-fluid figure-img" alt="The types of light we see throughout the day: Daylight vs.&nbsp;electric light"></a></p>
 <figcaption>The types of light we see throughout the day: Daylight vs.&nbsp;electric light</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="assets/walch_04_interindividual_differences.png" class="lightbox" data-gallery="quarto-lightbox-gallery-4" data-glightbox="description: .lightbox-desc-4" title="Same light, different effects: How age, gender, and other factors influence the effects of light"><img src="assets/walch_04_interindividual_differences.png" class="img-fluid figure-img" alt="Same light, different effects: How age, gender, and other factors influence the effects of light"></a></p>
+<p><a href="assets/walch_04_interindividual_differences.png" class="lightbox" data-glightbox="description: .lightbox-desc-4" data-gallery="quarto-lightbox-gallery-4" title="Same light, different effects: How age, gender, and other factors influence the effects of light"><img src="assets/walch_04_interindividual_differences.png" class="img-fluid figure-img" alt="Same light, different effects: How age, gender, and other factors influence the effects of light"></a></p>
 <figcaption>Same light, different effects: How age, gender, and other factors influence the effects of light</figcaption>
 </figure>
 </div>
@@ -653,7 +666,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>
   </div>
 </footer>
-<script>var lightboxQuarto = GLightbox({"loop":false,"descPosition":"bottom","selector":".lightbox","openEffect":"zoom","closeEffect":"zoom"});
+<script>var lightboxQuarto = GLightbox({"loop":false,"closeEffect":"zoom","openEffect":"zoom","selector":".lightbox","descPosition":"bottom"});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;
