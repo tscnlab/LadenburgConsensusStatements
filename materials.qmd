@@ -32,3 +32,21 @@ The following illustrations by [Dr Olivia Walch](http://oliviawalch.com/) are li
 ![The types of light we see throughout the day: Daylight vs. electric light](assets/walch_03_spectral_differences.png){fig-align="left" width=500}
 
 ![Same light, different effects: How age, gender, and other factors influence the effects of light](assets/walch_04_interindividual_differences.png){fig-align="left" width=500}
+
+## Images from the BioClock Consortium
+
+The following set of images were produced by Mara Cotterink (Leiden University Medical Centre) within the [BioClock Consortium](https://bioclockconsortium.org/).
+
+![](assets/bioclock_idl_01.png){fig-align="left" width=450}
+
+![](assets/bioclock_idl_02.png){fig-align="left" width=450}
+
+![](assets/bioclock_idl_03.png){fig-align="left" width=450}
+
+![](assets/bioclock_idl_04.png){fig-align="left" width=450}
+
+![](assets/bioclock_idl_05.png){fig-align="left" width=450}
+
+![](assets/bioclock_idl_06.png){fig-align="left" width=450}
+
+![](assets/bioclock_idl_07.png){fig-align="left" width=450}
