@@ -1,0 +1,54 @@
+---
+title: "Consensus Statements (Deutsch)"
+subtitle: "Light for Public Health Initiative"
+title-block-banner: true
+bibliography: references.bib
+format:
+  html:
+    toc: true
+    toc-location: left
+    toc-depth: 2
+    lightbox: true
+doi: 10.17617/1.4a6s-ec74
+lang: de
+
+---
+
+```{r}
+#| include: false
+library(purrr)
+library(readxl)
+path <- "assets/20250521_LadenburgConsensusStatements_German.xlsx"
+data <- read_xlsx(path, sheet = "German")
+```
+
+```{r}
+#| results: "asis"
+#| echo: false
+
+res <- pmap(data, function(number, statement, simplified, context, reference) {
+  knitr::knit_child(text = c(
+    '## `r statement`',
+    '',
+    '### Nummer',
+    '',
+    '`r number`',
+    '',
+    '### Vereinfachtes Statement',
+    '',
+    '`r simplified`',
+    '',
+    '### Kontextinformation',
+    '',
+    '`r context`',
+    '',
+    '### Referenzen',
+    '',
+    '`r reference`',
+    ''
+  ), envir = environment(), quiet = TRUE)
+  })
+#evaluates the code above
+cat(unlist(res), sep = "\n")
+```
+
