@@ -21,7 +21,11 @@ website:
       - text: "Consortium"
         href: consortium.qmd
       - text: "Consensus statements"
-        href: consensus-statements.qmd
+        menu:
+        - text: "English"
+          href: consensus-statements.qmd
+        - text: "German"
+          href: consensus-statements_de.qmd
       - text: "Supporting organisations"
         href: supporting-orgs.qmd
       - text: "Materials"
@@ -55,4 +59,7 @@ execute:
 date: last-modified
 
 language:
-  title-block-published: "Last modified:"
+  en:
+    title-block-published: "Last modified:"
+  de:
+    title-block-published: "Zuletzt geändert"
