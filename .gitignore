@@ -5,3 +5,4 @@
 *.DStore
 /.quarto/
 _site/
+.DS_Store
