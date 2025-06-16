@@ -31,9 +31,9 @@ The following illustrations by [Dr Olivia Walch](http://oliviawalch.com/) are li
 
 ![Exposure to light at different times of day alters the timing of sleep and wakefulness](assets/walch_03_behavioural_light_effects.png){fig-align="left" width=500}
 
-![The types of light we see throughout the day: Daylight vs. electric light](assets/walch_04_interindividual_differences.png){fig-align="left" width=500}
+![Same light, different effects: How age, gender, and other factors influence the effects of light](assets/walch_04_interindividual_differences.png){fig-align="left" width=500}
 
-![Same light, different effects: How age, gender, and other factors influence the effects of light](assets/walch_05_spectral_differences.png){fig-align="left" width=500}
+![The types of light we see throughout the day: Daylight vs. electric light](assets/walch_05_spectral_differences.png){fig-align="left" width=500}
 
 ## Images from the BioClock Consortium
 
