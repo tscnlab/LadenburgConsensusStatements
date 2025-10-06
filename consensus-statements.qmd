@@ -58,9 +58,11 @@ unique(dataset$chapter) |>
     ''
   ), envir = environment(), quiet = TRUE)),
   after = 0
-  )
-#evaluates the code above
-cat(unlist(res), sep = "\n")
+  ) |> 
+      list_c()
+  }) |>
+  unlist() |> 
+  #evaluates the code above
+  cat(sep = "\n")
 
-  })
 ```
