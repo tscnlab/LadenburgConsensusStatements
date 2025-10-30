@@ -1,6 +1,8 @@
 ---
 title: "Consensus Statements (Deutsch)"
 subtitle: "Light for Public Health Initiative"
+metadata-files:
+  - assets/translations/authors_German.yml
 title-block-banner: true
 bibliography: references.bib
 format:

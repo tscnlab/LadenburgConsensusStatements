@@ -24,8 +24,23 @@ website:
         menu:
         - text: "English"
           href: consensus-statements.qmd
+        - text: "---"
+        - text: "Chinese"
+          href: consensus-statements_zh.qmd
+        - text: "French"
+          href: consensus-statements_fr.qmd
         - text: "German"
           href: consensus-statements_de.qmd
+        - text: "Italian"
+          href: consensus-statements_it.qmd
+        - text: "Korean"
+          href: consensus-statements_ko.qmd
+        - text: "Portuguese"
+          href: consensus-statements_pt.qmd
+        - text: "Polish"
+          href: consensus-statements_pl.qmd
+        - text: "Turkish"
+          href: consensus-statements_tr.qmd
       - text: "Supporting organisations"
         href: supporting-orgs.qmd
       - text: "Materials"

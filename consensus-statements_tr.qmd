@@ -1,8 +1,8 @@
 ---
-title: "Consensus statements"
+title: "Consensus Statements (Turkish)"
 subtitle: "Light for Public Health Initiative"
 metadata-files:
-  - assets/translations/authors_English.yml
+  - assets/translations/authors_Turkish.yml
 title-block-banner: true
 bibliography: references.bib
 format:
@@ -12,19 +12,14 @@ format:
     toc-depth: 1
     lightbox: true
 doi: 10.17617/1.4a6s-ec74
+lang: tr
 
 ---
 
 ```{r}
 #| include: false
-library(purrr)
-library(rlang)
-library(dplyr)
-library(readxl)
-library(glue)
-#| include: false
 source("scripts/prepare_lang_data.R")
-prepare_lang_data("English")
+prepare_lang_data("Turkish")
 ```
 
 ```{r}
@@ -67,5 +62,5 @@ unique(dataset$chapter) |>
   unlist() |> 
   #evaluates the code above
   cat(sep = "\n")
-
 ```
+
