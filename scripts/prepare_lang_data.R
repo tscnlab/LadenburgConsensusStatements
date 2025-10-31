@@ -35,7 +35,7 @@ prepare_author_data <- function(language){
     entry <- 
       list(
         name = paste(x["First name"], x["Last name"]),
-        affiliation = ifelse(!is.na(x["Affiliation"]), x["Affiliation"], NA),
+        affiliation = if(!is.na(x["Affiliation"])) x["Affiliation"],
         orcid = if(!is.na(x["ORCID"])) x["ORCID"]
       )
     Filter(Negate(is.null), entry)

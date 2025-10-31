@@ -1,0 +1,66 @@
+---
+title: "Consensus Statements (Dutch)"
+subtitle: "Light for Public Health Initiative"
+metadata-files:
+  - assets/translations/authors_Dutch.yml
+title-block-banner: true
+bibliography: references.bib
+format:
+  html:
+    toc: true
+    toc-location: left
+    toc-depth: 1
+    lightbox: true
+doi: 10.17617/1.4a6s-ec74
+lang: nl
+
+---
+
+```{r}
+#| include: false
+source("scripts/prepare_lang_data.R")
+prepare_lang_data("Dutch")
+```
+
+```{r}
+#| results: "asis"
+#| echo: false
+
+unique(dataset$chapter) |> 
+  map(\(chap) {
+    data <- dataset |> dplyr::filter(chapter == chap)
+    
+    res <- pmap(data, function(chapter, number, statement, simplified, context, reference) {
+  knitr::knit_child(text = c(
+    '## `r statement`',
+    '',
+    '### `r headers[2]`: `r number`',
+    '',
+    '### `r headers[4]`',
+    '',
+    '`r simplified`',
+    '',
+    '### `r headers[5]`',
+    '',
+    '`r context`',
+    '',
+    '### `r headers[6]`',
+    '',
+    '`r reference`',
+    ''
+  ), envir = environment(), quiet = TRUE)
+  }) |> 
+      append(list(
+  knitr::knit_child(text = c(
+    '# `r chap`',
+    ''
+  ), envir = environment(), quiet = TRUE)),
+  after = 0
+  ) |> 
+      list_c()
+  }) |>
+  unlist() |> 
+  #evaluates the code above
+  cat(sep = "\n")
+```
+
