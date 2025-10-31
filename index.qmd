@@ -40,7 +40,7 @@ Spitschan, M., Kervezee, L., Stefani, O., Gordijn, M., Veitch, J. A., Lok, R., &
 :::
 
 ::: {.callout-tip title="Preprint on the consensus statements" icon=false}
-Spitschan, M., Kervezee, L., Stefani, O., Gordijn, M., Veitch, J. A., Lok, R., & Ladenburg Light and Health Consortium (2025). Evidence-based public health messaging on the non-visual effects of ocular light exposure: A modified Delphi expert consensus. *medRxiv* 2025.05.07.25327160. DOI: [10.1101/2025.05.07.25327160v1](https://www.medrxiv.org/content/10.1101/2025.05.07.25327160v1).
+Spitschan, M., Kervezee, L., Stefani, O., Gordijn, M., Veitch, J. A., & Lok, R. (2025). Evidence-based public health messaging on the non-visual effects of ocular light exposure: A modified Delphi expert consensus. *BMJ Public Health, 3*, e003205. [10.1136/bmjph-2025-003205](https://doi.org/10.1136/bmjph-2025-003205) ([Earlier preprint](https://doi.org/10.1101/2025.05.07.25327160).)
 :::
 
 ### Supporting organisations
