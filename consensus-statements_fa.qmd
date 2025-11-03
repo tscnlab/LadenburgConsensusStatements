@@ -13,7 +13,7 @@ format:
     lightbox: true
 doi: 10.17617/1.4a6s-ec74
 lang: fa
-
+dir: rtl
 ---
 
 ```{r}
