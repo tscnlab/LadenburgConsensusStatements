@@ -46,7 +46,9 @@ unique(dataset$chapter) |>
     '',
     '### `r headers[6]`',
     '',
+    '::: {dir="ltr"}',
     '`r reference`',
+    ':::',
     ''
   ), envir = environment(), quiet = TRUE)
   }) |> 
