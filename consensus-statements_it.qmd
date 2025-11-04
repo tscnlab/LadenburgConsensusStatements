@@ -22,6 +22,25 @@ source("scripts/prepare_lang_data.R")
 prepare_lang_data("Italian")
 ```
 
+::: {.callout-note icon=false title= }
+
+# `r key_messages[1]`
+
+::: h4
+-   `r key_messages[2]`
+
+-   `r key_messages[3]`
+
+-   `r key_messages[4]`
+
+-   `r key_messages[5]`
+
+-   `r key_messages[6]`
+:::
+
+:::
+
+
 ```{r}
 #| results: "asis"
 #| echo: false

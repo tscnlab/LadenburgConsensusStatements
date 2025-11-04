@@ -13,7 +13,6 @@ format:
     lightbox: true
 doi: 10.17617/1.4a6s-ec74
 lang: cz
-
 ---
 
 ```{r}
@@ -21,6 +20,26 @@ lang: cz
 source("scripts/prepare_lang_data.R")
 prepare_lang_data("Czech")
 ```
+
+
+::: {.callout-note icon=false title= }
+
+# `r key_messages[1]`
+
+::: h4
+-   `r key_messages[2]`
+
+-   `r key_messages[3]`
+
+-   `r key_messages[4]`
+
+-   `r key_messages[5]`
+
+-   `r key_messages[6]`
+:::
+
+:::
+
 
 ```{r}
 #| results: "asis"
@@ -52,8 +71,7 @@ unique(dataset$chapter) |>
   }) |> 
       append(list(
   knitr::knit_child(text = c(
-    '# `r chap`',
-    ''
+    '# `r chap`'
   ), envir = environment(), quiet = TRUE)),
   after = 0
   ) |> 
@@ -63,4 +81,3 @@ unique(dataset$chapter) |>
   #evaluates the code above
   cat(sep = "\n")
 ```
-

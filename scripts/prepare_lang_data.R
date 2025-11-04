@@ -11,6 +11,7 @@ library(yaml)
 prepare_lang_data <- function(language){
   #loading data
   prepare_author_data(language)
+  key_messages <<- prepare_key_messages(language)
   path <- "assets/LadenburgConsensuStatements.xlsx"
   sheets <- readxl::excel_sheets(path)
   stopifnot("language argument must be part of the 'LadenburgConsensuStatements.xlsx' worksheets" = 
@@ -23,6 +24,12 @@ prepare_lang_data <- function(language){
   headers <<- names(data)
   names(data) <- c("chapter", "number", "statement", "simplified", "context", "reference")
   dataset <<- data
+}
+
+prepare_key_messages <- function(language){
+  path <- "assets/LadenburgConsensuStatements.xlsx"
+  data <- read_xlsx(path, sheet = "Key Messages")
+  data[[language]]
 }
 
 prepare_author_data <- function(language){
