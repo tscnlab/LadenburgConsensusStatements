@@ -25,6 +25,8 @@ website:
         - text: "English"
           href: consensus-statements.qmd
         - text: "---"
+        - text: "Brazilian Portuguese"
+          href: consensus-statements_pt.qmd
         - text: "Czech"
           href: consensus-statements_cz.qmd
         - text: "Chinese"
@@ -45,8 +47,6 @@ website:
           href: consensus-statements_ko.qmd
         - text: "Persian"
           href: consensus-statements_fa.qmd
-        - text: "Portuguese"
-          href: consensus-statements_pt.qmd
         - text: "Polish"
           href: consensus-statements_pl.qmd
         - text: "Spanish"
