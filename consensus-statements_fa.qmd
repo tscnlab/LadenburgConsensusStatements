@@ -14,7 +14,6 @@ format:
     toc-depth: 1
     lightbox: true
 doi: 10.17617/1.4a6s-ec74
-dir: rtl
 ---
 
 ```{r}
@@ -22,13 +21,17 @@ dir: rtl
 source("scripts/prepare_lang_data.R")
 prepare_lang_data(params$langs)
 ```
----
 
 ```{r}
 #| include: false
+
+if(params$langs == "Persian"){
 to_fa_digits <- function(x) {
   s <- as.character(x)
   chartr("0123456789", "۰۱۲۳۴۵۶۷۸۹", s)
+}
+
+dataset <- dataset |> mutate(number = to_fa_digits(number))
 }
 ```
 
@@ -63,7 +66,7 @@ unique(dataset$chapter) |>
   knitr::knit_child(text = c(
     '## `r statement`',
     '',
-    '### `r headers[2]`: `r to_fa_digits(number)`',
+    '### `r headers[2]`: `r number`',
     '',
     '### `r headers[4]`',
     '',

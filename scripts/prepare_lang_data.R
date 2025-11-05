@@ -53,12 +53,18 @@ prepare_author_data <- function(file, language, title_qmd){
     Filter(Negate(is.null), entry)
   })
   
+  yaml_list <- list(author = authors,
+                    lang = lang_indicator,
+                    title = title_qmd
+                    # params = list(langs = language)
+  )
+  
+  if(language == "Persian") {
+    yaml_list <- append(yaml_list, c(dir = "rtl"))
+  }
+  
   # Convert to YAML; authors can be length 1 or many
-  yaml_text <- as.yaml(list(author = authors,
-                            lang = lang_indicator,
-                            title = title_qmd
-                            # params = list(langs = language)
-                            ), 
+  yaml_text <- as.yaml(yaml_list, 
                        indent = 2, line.sep = "\n")
   # yaml_text <- as.yaml(list(author = authors))
   # cat(yaml_text)
