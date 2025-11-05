@@ -1,25 +1,25 @@
 ---
-title: "Consensus Statements (Danish)"
-subtitle: "Light for Public Health Initiative"
+params:
+  langs: Danish
 metadata-files:
-  - assets/translations/authors_Danish.yml
+  - "assets/translations/authors_Danish.yml"
+subtitle: "Light for Public Health Initiative"
 title-block-banner: true
 bibliography: references.bib
 format:
   html:
     toc: true
+    css: styles.css
     toc-location: left
     toc-depth: 1
     lightbox: true
 doi: 10.17617/1.4a6s-ec74
-lang: da
-
 ---
 
 ```{r}
 #| include: false
 source("scripts/prepare_lang_data.R")
-prepare_lang_data("Danish")
+prepare_lang_data(params$langs)
 ```
 
 ::: {.callout-note icon=false title= }

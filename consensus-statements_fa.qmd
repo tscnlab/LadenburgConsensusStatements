@@ -1,26 +1,31 @@
 ---
-title: "Consensus Statements (Persian)"
-subtitle: "Light for Public Health Initiative"
+params:
+  langs: Persian
 metadata-files:
-  - assets/translations/authors_Persian.yml
+  - "assets/translations/authors_Persian.yml"
+subtitle: "Light for Public Health Initiative"
 title-block-banner: true
 bibliography: references.bib
 format:
   html:
     toc: true
+    css: styles.css
     toc-location: left
     toc-depth: 1
     lightbox: true
 doi: 10.17617/1.4a6s-ec74
-lang: fa
 dir: rtl
 ---
 
 ```{r}
 #| include: false
 source("scripts/prepare_lang_data.R")
-prepare_lang_data("Persian")
+prepare_lang_data(params$langs)
+```
+---
 
+```{r}
+#| include: false
 to_fa_digits <- function(x) {
   s <- as.character(x)
   chartr("0123456789", "۰۱۲۳۴۵۶۷۸۹", s)

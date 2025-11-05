@@ -23,7 +23,7 @@ website:
       - text: "Consensus statements"
         menu:
         - text: "English"
-          href: consensus-statements.qmd
+          href: consensus-statements_en.qmd
         - text: "---"
         - text: "Brazilian Portuguese"
           href: consensus-statements_pt.qmd

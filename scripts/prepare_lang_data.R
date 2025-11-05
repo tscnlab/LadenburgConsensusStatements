@@ -6,39 +6,44 @@ library(dplyr)
 library(readxl)
 library(glue)
 library(yaml)
+library(stringr)
 
 
 prepare_lang_data <- function(language){
   #loading data
-  prepare_author_data(language)
-  key_messages <<- prepare_key_messages(language)
-  path <- "assets/LadenburgConsensuStatements.xlsx"
-  sheets <- readxl::excel_sheets(path)
-  stopifnot("language argument must be part of the 'LadenburgConsensuStatements.xlsx' worksheets" = 
-              !language %in% names(sheets))
-  data <- read_xlsx(path, sheet = language)
-  data_ref <- read_xlsx(path, sheet = "English")
+  file <- list.files("assets/translations", pattern = glue("^{language}"),
+                      full.names = TRUE)
+  stopifnot("Language specification is not unambiguous or findable, check translation files in `assets/translations/`" =
+              length(file) == 1)
+  sheets <- readxl::excel_sheets(file)
+  data <- read_xlsx(file, sheet = "Statements")
+  misc <- read_xlsx(file, sheet = "Misc")
+  data <- data |> select(2, 4, 6, 8, 10)
+  data_ref <- read_xlsx("assets/translations/English.UK.en-UK.xlsx", sheet = "Statements")
   #copying references from English worksheet
-  data[6] <- data_ref[6]
+  data[6] <- data_ref[11]
   #get the names
-  headers <<- names(data)
+  headers <<- c(names(data)[1:5], misc$Translation[2])
   names(data) <- c("chapter", "number", "statement", "simplified", "context", "reference")
   dataset <<- data
+  title_qmd <- misc$Translation[1]
+  
+  prepare_author_data(file, language, title_qmd)
+  key_messages <<- prepare_key_messages(file)
+  
 }
 
-prepare_key_messages <- function(language){
-  path <- "assets/LadenburgConsensuStatements.xlsx"
-  data <- read_xlsx(path, sheet = "Key Messages")
-  data[[language]]
+prepare_key_messages <- function(file){
+  data <- read_xlsx(file, sheet = "Key messages")
+  data$Translation
 }
 
-prepare_author_data <- function(language){
-  path <- "assets/LadenburgConsensuStatements.xlsx"
-  data <- read_xlsx(path, sheet = "Contributors")
+prepare_author_data <- function(file, language, title_qmd){
+  data <- read_xlsx(file, sheet = "Contributors")
   
-  data2 <- data |> filter(Language == language)
+  lang_indicator <- file |> str_extract("\\.([a-z]{2})-", group = 1)
   
-  authors <- apply(data2, 1, function(x) {
+  authors <- apply(data, 1, function(x) {
     entry <- 
       list(
         name = paste(x["First name"], x["Last name"]),
@@ -49,7 +54,12 @@ prepare_author_data <- function(language){
   })
   
   # Convert to YAML; authors can be length 1 or many
-  yaml_text <- as.yaml(list(author = authors), indent = 2, line.sep = "\n")
+  yaml_text <- as.yaml(list(author = authors,
+                            lang = lang_indicator,
+                            title = title_qmd
+                            # params = list(langs = language)
+                            ), 
+                       indent = 2, line.sep = "\n")
   # yaml_text <- as.yaml(list(author = authors))
   # cat(yaml_text)
   # write to a file Quarto can include

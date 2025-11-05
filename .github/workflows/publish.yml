@@ -22,6 +22,9 @@ jobs:
         with:
           cache-version: 1
 
+      - name: Create language subsites
+        run: Rscript scripts/create_language_subsites.R
+
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
         with:
