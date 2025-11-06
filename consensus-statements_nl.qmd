@@ -1,26 +1,57 @@
 ---
-title: "Consensus Statements (Dutch)"
-subtitle: "Light for Public Health Initiative"
+params:
+  langs: Dutch
 metadata-files:
-  - assets/translations/authors_Dutch.yml
+  - "assets/translations/authors_Dutch.yml"
+subtitle: "Light for Public Health Initiative"
 title-block-banner: true
 bibliography: references.bib
 format:
   html:
     toc: true
+    css: styles.css
     toc-location: left
     toc-depth: 1
     lightbox: true
 doi: 10.17617/1.4a6s-ec74
-lang: nl
-
 ---
 
 ```{r}
 #| include: false
 source("scripts/prepare_lang_data.R")
-prepare_lang_data("Dutch")
+prepare_lang_data(params$langs)
 ```
+
+```{r}
+#| include: false
+
+if(params$langs == "Persian"){
+to_fa_digits <- function(x) {
+  s <- as.character(x)
+  chartr("0123456789", "۰۱۲۳۴۵۶۷۸۹", s)
+}
+
+dataset <- dataset |> mutate(number = to_fa_digits(number))
+}
+```
+
+::: {.callout-note icon=false title= }
+
+# `r key_messages[1]`
+
+::: h4
+-   `r key_messages[2]`
+
+-   `r key_messages[3]`
+
+-   `r key_messages[4]`
+
+-   `r key_messages[5]`
+
+-   `r key_messages[6]`
+:::
+
+:::
 
 ```{r}
 #| results: "asis"
@@ -62,5 +93,5 @@ unique(dataset$chapter) |>
   unlist() |> 
   #evaluates the code above
   cat(sep = "\n")
-```
 
+```

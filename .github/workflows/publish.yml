@@ -22,10 +22,11 @@ jobs:
         with:
           cache-version: 1
 
+      - name: Create language subsites
+        run: Rscript scripts/create_language_subsites.R
+
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
-        with:
-          version: 1.4.550  # ensure support for `website.logo`
 
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
