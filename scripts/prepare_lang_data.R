@@ -41,7 +41,7 @@ prepare_key_messages <- function(file){
 prepare_author_data <- function(file, language, title_qmd){
   data <- read_xlsx(file, sheet = "Contributors")
   
-  lang_indicator <- file |> str_extract("\\.([a-z]{2})-", group = 1)
+  lang_indicator <- file |> str_extract("\\.([a-z]{2,3})-", group = 1)
   
   authors <- apply(data, 1, function(x) {
     entry <- 

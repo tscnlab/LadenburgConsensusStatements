@@ -10,7 +10,7 @@ path <- "assets/translations"
 files <- list.files(path, pattern = glue(".xlsx$"))
 languages <- files |> str_extract("^([A-Za-z]+)\\.", group = 1)
 language_param <- glue("  langs: {languages}")
-lang_indicator <- files |> str_extract("\\.([a-z]{2})-", group = 1)
+lang_indicator <- files |> str_extract("\\.([a-z]{2,3})-", group = 1)
 yaml_file <- glue('  - "assets/translations/authors_{languages}.yml"')
 quarto_file <- glue("consensus-statements_{lang_indicator}.qmd")
 
