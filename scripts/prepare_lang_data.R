@@ -59,7 +59,7 @@ prepare_author_data <- function(file, language, title_qmd){
                     # params = list(langs = language)
   )
   
-  if(language == "Persian") {
+  if(language %in% c("Persian", "Arabic")) {
     yaml_list <- append(yaml_list, c(dir = "rtl"))
   }
   
