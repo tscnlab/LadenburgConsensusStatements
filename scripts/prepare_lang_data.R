@@ -35,7 +35,7 @@ prepare_lang_data <- function(language){
 
 prepare_key_messages <- function(file){
   data <- read_xlsx(file, sheet = "Key messages")
-  data$Translation
+  data |> pull(2)
 }
 
 prepare_author_data <- function(file, language, title_qmd){
