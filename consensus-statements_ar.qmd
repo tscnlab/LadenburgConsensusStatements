@@ -1,8 +1,8 @@
 ---
 params:
-  langs: English
+  langs: Arabic
 metadata-files:
-  - "assets/translations/authors_English.yml"
+  - "assets/translations/authors_Arabic.yml"
 subtitle: "Light for Public Health Initiative"
 title-block-banner: true
 bibliography: references.bib

@@ -25,6 +25,8 @@ website:
         - text: "English"
           href: consensus-statements_en.qmd
         - text: "---"
+        - text: "Arabic"
+          href: consensus-statements_ar.qmd
         - text: "Czech"
           href: consensus-statements_cz.qmd
         - text: "Chinese"

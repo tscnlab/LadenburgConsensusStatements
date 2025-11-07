@@ -1,13 +1,14 @@
 ---
 params:
-  langs: English
+  langs: Korean
 metadata-files:
-  - "assets/translations/authors_English.yml"
+  - "assets/translations/authors_Korean.yml"
 subtitle: "Light for Public Health Initiative"
 title-block-banner: true
 bibliography: references.bib
 format:
   html:
+    self-contained: true
     toc: true
     css: styles.css
     toc-location: left
@@ -25,7 +26,7 @@ prepare_lang_data(params$langs)
 ```{r}
 #| include: false
 
-if(params$langs %in% c("Persian", "Arabic")){
+if(params$langs == "Persian"){
 to_fa_digits <- function(x) {
   s <- as.character(x)
   chartr("0123456789", "۰۱۲۳۴۵۶۷۸۹", s)
