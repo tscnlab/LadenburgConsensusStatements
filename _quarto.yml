@@ -51,6 +51,8 @@ website:
           href: consensus-statements_pl.qmd
         - text: "Portuguese"
           href: consensus-statements_pt.qmd
+        - text: "Russian"
+          href: consensus-statements_ru.qmd
         - text: "Spanish"
           href: consensus-statements_es.qmd
         - text: "Turkish"
