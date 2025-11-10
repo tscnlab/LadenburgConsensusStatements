@@ -25,13 +25,17 @@ prepare_lang_data(params$langs)
 ```{r}
 #| include: false
 
-if(params$langs == "Persian"){
-to_fa_digits <- function(x) {
+if(params$langs %in% c("Persian", "Arabic")){
+to_translated_digits <- function(x) {
   s <- as.character(x)
+  if(params$langs %in% c("Persian")){
   chartr("0123456789", "۰۱۲۳۴۵۶۷۸۹", s)
-}
+  } else if(params$langs %in% c("Arabic")){
+  chartr("0123456789", "٠١٢٣٤٥٦٧٨٩", s)
+  }
+} 
 
-dataset <- dataset |> mutate(number = to_fa_digits(number))
+dataset <- dataset |> mutate(across(-reference, to_translated_digits))
 }
 ```
 
