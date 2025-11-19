@@ -1,0 +1,149 @@
+---
+title: "How you can contribute to add new languages and improve existing ones"
+---
+
+## Overview
+
+The *Light for public health* website presents consensus statements about the
+non‑visual effects of ocular light exposure and provides translations in many
+languages.  To make these messages accessible to more people, the project
+welcomes contributions from volunteers who can add new language translations or
+improve existing ones.  This guide explains who can contribute and how to
+prepare and submit translations through GitHub.
+
+## Who can contribute?
+
+- **Native speakers only.** You should be a fluent native speaker of the
+  language you want to translate into.  Colloquial and technical nuances are
+  important for accurate messaging.
+- **Two translators minimum.** At least two people must sign off on the
+  translation.  Both should be native speakers and should agree on the
+  wording; this helps catch mistakes or ambiguous phrasing.
+- **Relevant expertise.** Contributors should have a background in
+  lighting research, practice, or a related field.  This ensures
+  that technical terms are translated correctly and that the meaning of the
+  consensus statements is preserved.
+
+## Preparing the translation file
+
+All translations are stored as Excel workbooks in the
+[`assets/translations`](https://github.com/tscnlab/LadenburgConsensusStatements/tree/main/assets/translations) folder of the repository.  Each workbook contains
+several sheets for key messages and contributor details, and the site
+scripts extract the content automatically.  Follow these steps to prepare
+your file:
+
+1. **Use an existing file as a template.** Download one of the existing
+   workbooks from the `assets/translations` folder (e.g. [`German.Germany.de‑DE.xlsx`](https://github.com/tscnlab/LadenburgConsensusStatements/blob/raw/assets/translations/German.Germany.de-DE.xlsx))
+   and use it as a template.  The column structure and sheet names must
+   remain identical—do not add or delete columns or sheets, and complete
+   every cell.  This is important because the scripts expect a specific
+   structure when generating web pages.
+2. **Fill in your translation.** Translate all the statements in the
+   template.  Do not leave any cells blank that weren't in the template. Do not leave any prior translation from the template.  If a phrase does not require
+   translation (for example, a proper noun), repeat the original text in
+   your language’s script.
+3. **Provide contributor details.** In the “Contributors” sheet of the
+   workbook, list each translator’s name, affiliation and ORCID
+   identifier.  The ORCID must be written as a pure identifier
+   (e.g. `0000‑0002‑8572‑9268`) without the `https://orcid.org` prefix and
+   an affiliation must be provided for every contributor; the Excel files of existing 
+   translations show the formatting.
+4. **Save the file with the correct name.** The naming convention is:
+
+   > `Language.Country.languageShortCode‑CountryShortCode.xlsx`
+
+   where `Language` is the full language name (capitalised), `Country` is the
+   country or region where the variant is spoken, and
+   `languageShortCode‑CountryShortCode` is the standard ISO language and
+   country code.  Existing files follow this pattern. For example,
+   `Bengali.Bengal.bn‑BD.xlsx` for the Bengali translation, `Dutch.Netherlands.nl‑NL.xlsx` for the Dutch translation, and `Portuguese.Brazil.pt‑BR.xlsx` for the Portuguese translation spoken in Brazil.
+   
+   Choose a filename consistent with your language and region.
+
+5. **Double‑check your work.** Ask your co‑translator(s) to review the
+   finished workbook.  Make sure there are no extra cells, comments or
+   formatting changes.
+
+### Naming examples
+
+The table below illustrates how the naming convention works for a few existing
+languages:
+
+| Language | Country       | Example file name                            |
+|---------|---------------|----------------------------------------------|
+| Bengali | Bengal        | `Bengali.Bengal.bn‑BD.xlsx`                  |
+| Dutch   | Netherlands   | `Dutch.Netherlands.nl‑NL.xlsx`                |
+| French  | France        | `French.France.fr‑FR.xlsx`                   |
+| Portuguese | Brazil     | `Portuguese.Brazil.pt‑BR.xlsx`               |
+| Turkish | Turkey        | `Turkish.Turkey.tr‑TR.xlsx`                  |
+
+
+## Step‑by‑step GitHub workflow
+
+If you are new to GitHub, the following steps describe how to submit your
+translation via a pull request.  A pull request is a request for the
+maintainers to review and merge your changes into the main project.  You
+do *not* need to be an expert developer to follow these steps.
+
+1. **Create a GitHub account.** Visit [github.com](https://github.com) and
+   sign up for a free account.  Verify your email address when prompted.
+   
+2. **Fork the repository.** Navigate to the
+   [Ladenburg Consensus Statements repository](https://github.com/tscnlab/LadenburgConsensusStatements)
+   and click the **Fork** button at the top right.  This makes a copy of
+   the repository under your own account.
+   
+3. **Add your translation file.** In your forked repository, browse to
+   `assets/translations` and click **Add file → Upload files**.  Drag and
+   drop your translation workbook into this folder.  Enter a short
+   descriptive commit message when prompted (e.g., “Add Italian translation”).
+   
+4. **Update the `_quarto.yml` file.** Open `_quarto.yml`[^1] (you can edit
+   files directly in the GitHub web interface). Under the
+   “Consensus statements” menu, add a new entry for your language in
+   alphabetical order to the existing ones.  Each language entry consists of a `text:` field
+   (the language name) and an `href:` field linking to the Quarto file.  For
+   example, to add Bengali the `_quarto.yml` contains entries in
+   alphabetical order from A to Z; the Bengali entry looks like:
+
+[^1]: [This is the file](https://github.com/tscnlab/LadenburgConsensusStatements/blob/main/_quarto.yml) in the main repo, **but you have to edit your forked version**.
+
+   ```yaml
+   - text: "Bengali"
+     href: consensus-statements_bn.qmd
+   ```
+
+   Replace `Bengali` and `bn` with your language name and the language
+   shortcode used in your Excel file.  Keep the list in alphabetical
+   order so that the navigation menu remains organised.
+   
+5. **Commit your changes.** After editing `_quarto.yml`, scroll to the
+   bottom of the page, enter a commit message (e.g., “Add Bengali to
+   navigation”), and click **Commit changes**.
+   
+6. **Create a pull request.** Go to the main page of your fork and click
+   **Pull request**.  GitHub will compare your fork with the original
+   repository.  Click **Create pull request**, provide a short title and
+   description (mention the language and confirm that two native speakers
+   signed off), and then click **Create pull request** again to submit.
+   
+7. **Respond to feedback.** Project maintainers will review your pull
+   request.  They may ask clarifying questions or request changes.  Once
+   the pull request is approved, your translation will be merged and the
+   website will be updated.
+
+## Updating an existing translation
+
+To improve an existing language, you only need to update the corresponding
+Excel workbook in `assets/translations`.  Do **not** modify other files or
+rename the workbook.  Simply download the current file, make the necessary
+improvements, and submit your changes via a pull request following the
+steps above.  The build scripts will automatically extract the updated
+content.
+
+## Need help?
+
+If you have questions about the translation process or need assistance with
+GitHub, feel free to open an issue on the GitHub repository or contact the
+maintainers through the email listed on the site’s imprint page.  Thank you
+for helping to make the consensus statements accessible to everyone!
