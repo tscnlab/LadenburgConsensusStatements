@@ -49,6 +49,8 @@ website:
           href: consensus-statements_ja.qmd
         - text: "Korean"
           href: consensus-statements_ko.qmd
+        - text: "Norwegian"
+          href: consensus-statements_no.qmd
         - text: "Persian"
           href: consensus-statements_fa.qmd
         - text: "Polish"
@@ -61,7 +63,6 @@ website:
           href: consensus-statements_es.qmd
         - text: "Turkish"
           href: consensus-statements_tr.qmd
-        - text: "---"
         - text: "Missing **your** language?"
           href: contribute.qmd
       - text: "Supporting organisations"
