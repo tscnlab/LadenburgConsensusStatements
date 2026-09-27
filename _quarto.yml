@@ -77,6 +77,9 @@ website:
       - text: "License"
         href: lic-statements.qmd
     right:
+      - icon: linkedin
+        href: https://www.linkedin.com/company/107381081/
+        aria-label: Light for Public Health on LinkedIn
       - icon: github
         href: https://github.com/tscnlab/LadenburgConsensusStatements
         aria-label: Quarto GitHub

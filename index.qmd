@@ -35,6 +35,8 @@ doi: 10.17617/1.4a6s-ec74
 
 Light affects our sleep, mood, and health by influencing our body’s internal clock, hormones and cognition. The Ladenburg Light and Health Consortium created clear, science-based statements to help explain why healthy light exposure matters. This information, targeted to public-health multipliers, is meant to support better communication for healthier light exposure for everyone.
 
+Follow [Light for Public Health on LinkedIn](https://www.linkedin.com/company/107381081/) for updates from the initiative.
+
 ::: {.callout-note title="Citing this resource"}
 Spitschan, M., Kervezee, L., Stefani, O., Gordijn, M., Veitch, J. A., Lok, R., & Ladenburg Light and Health Consortium (2025). Evidence-based public health messaging on the non-visual effects of ocular light exposure: Core statements for a coordinated health communication campaign. DOI: [10.17617/1.4a6s-ec74](https://doi.org/10.17617/1.4a6s-ec74).
 :::
@@ -42,6 +44,15 @@ Spitschan, M., Kervezee, L., Stefani, O., Gordijn, M., Veitch, J. A., Lok, R., &
 ::: {.callout-tip title="Preprint on the consensus statements" icon=false}
 Spitschan, M., Kervezee, L., Stefani, O., Gordijn, M., Veitch, J. A., & Lok, R. (2025). Evidence-based public health messaging on the non-visual effects of ocular light exposure: A modified Delphi expert consensus. *BMJ Public Health, 3*, e003205. [10.1136/bmjph-2025-003205](https://doi.org/10.1136/bmjph-2025-003205) ([Earlier preprint](https://doi.org/10.1101/2025.05.07.25327160).)
 :::
+
+### Light for Public Health Fellows
+
+Conor Heaney and Maya Piper were the **2025 Light for Public Health Fellows**, each completing a micro-fellowship. We may offer another round of micro-fellowships in **2027**.
+
+Outputs from the 2025 micro-fellowships include:
+
+- [Bright days, dark nights: translating science on the non-visual effects of light into public health guidance](https://www.ssph-journal.org/journals/public-health-reviews/articles/10.3389/phrs.2026.1609683/full), published in *Public Health Reviews* (2026).
+- A second output is forthcoming.
 
 ### Supporting organisations
 
