@@ -29,3 +29,9 @@ The **[Good Light Group (GLG)](https://www.goodlightgroup.org/)** is a global, n
 [![](assets/logo-cet.png){width=300pt}](https://cet.org/)
 
 Founded in 1994, the **[Center for Environmental Therapeutics (CET)](https://cet.org/)** is a nonprofit organization dedicated to education and research on new environmental therapies that focus on scientifically validated approaches to optimizing mood, sleep, and performance, mainly through light therapy, chronotherapy, and other non-pharmacological treatments. The organization seeks to achieve this goal by raising awareness about how light exposure, sleep timing, and behavioral interventions can improve mental health and well-being, fostering collaboration among researchers, clinicians, and the public, and promoting evidence-based solutions. CET provides educational resources, shares insights through articles and social media, and offers practical tools for individuals and healthcare professionals.
+
+::: {#litg}
+[![](assets/logo-litg.svg){width=250pt fig-alt="German Society for Lighting Technology and Lighting Design (LiTG)"}](https://www.litg.de/)
+
+The **[German Society for Lighting Technology and Lighting Design (LiTG)](https://www.litg.de/)** is a nonprofit association that connects researchers, engineers, lighting designers, architects, and other professionals interested in light and lighting. Its work spans lighting technology, design, planning, and applications in research and practice. LiTG shares knowledge through conferences, regional events, professional training, and technical publications. It also contributes to national and international standards in cooperation with organisations such as DIN, CEN, ISO, and CIE.
+:::
